@@ -17,7 +17,7 @@ window.addEventListener('load', () => {
     appContent.style.display = 'none';
     return;
   } else {
-    alert ("IS PWA");
+ 
     installPrompt.style.display = 'none';
     appContent.style.display = 'block';
   }
@@ -171,5 +171,6 @@ function showResults() {
     updateProgressBar();
   });
 }
+
 
 
