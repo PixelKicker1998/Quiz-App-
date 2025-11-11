@@ -4,7 +4,8 @@ let correctAnswers = 0;
 let userAnswers = [];
 
 function isPWA() {
-  return window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true;
+  // return window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true;
+  return true;
 }
 
 window.addEventListener('load', () => {
@@ -169,3 +170,4 @@ function showResults() {
     updateProgressBar();
   });
 }
+
