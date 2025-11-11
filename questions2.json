@@ -1,0 +1,1694 @@
+[
+    {
+        "question": "Welche Aussage zur Retralen Kontaktposition (RKP) im Kontext der prothetischen Versorgung ist am zutreffendsten?",
+        "answers": [
+            { "text": "Die RKP ist definiert als die maximale Verzahnung der Zähne, unabhängig von der Kiefergelenksposition.", "correct": false },
+            { "text": "Die RKP ist eine therapeutisch induzierte, ligamentär fixierte Position, die für die Totalprothetik irrelevant ist.", "correct": false },
+            { "text": "Die RKP ist eine reproduzierbare Unterkieferposition, die vom Kiefergelenk bestimmt wird und als Ausgangslage für die Relationsbestimmung bei großflächigem oder fehlendem Zahnersatz dient.", "correct": true },
+            { "text": "Die RKP entspricht in der Regel der Interkuspidationsposition (IKP) bei einem gesunden, nicht-abrasiven Gebiss.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was beschreibt das Biologische Breiten-Prinzip am genauesten im Zusammenhang mit der Kronenpräparation?",
+        "answers": [
+            { "text": "Die Notwendigkeit, einen minimalen Abstand von 3 mm zwischen Kronenrand und Alveolarknochen zu gewährleisten.", "correct": false },
+            { "text": "Der zirkuläre Sulkusabstand von 1 mm, um eine optimale Hygienefähigkeit des Kronenrandes zu sichern.", "correct": false },
+            { "text": "Die Summe der Breite des epithelialen Attachments und des gingivalen Bindegewebes (typischerweise ca. 2,04 mm), die nicht durch den Kronenrand verletzt werden darf.", "correct": true },
+            { "text": "Die präzise Passung des Kronenrandes supragingival, um die parodontale Gesundheit zu erhalten.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher prothetische Pfeilerwert gilt als absolut kontraindiziert für eine konventionelle festsitzende Brücke mit Endpfeilern?",
+        "answers": [
+            { "text": "Ein Zahn mit moderater horizontaler Lockerung (Grad 1).", "correct": false },
+            { "text": "Ein endodontisch behandelter Zahn mit koronaler Substanzdefekt.", "correct": false },
+            { "text": "Ein Zahn mit starker Reduktion des parodontalen Halteapparates (mehr als 50%) und furkaler Beteiligung Grad 3.", "correct": true },
+            { "text": "Ein Einzelzahn mit geringer Wurzeloberfläche, aber ohne Lockerung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welches Abformmaterial ist aufgrund seiner hydrophilen Eigenschaften und hohen Detailwiedergabe am besten für die Präzisionsabformung von Zahnstümpfen bei Vollkeramikkronen geeignet?",
+        "answers": [
+            { "text": "Kondensationsvernetzendes Silikon (C-Silikon).", "correct": false },
+            { "text": "Alginat.", "correct": false },
+            { "text": "Gips.", "correct": false },
+            { "text": "Polyether (PE) oder Additionsvernetzendes Silikon (A-Silikon) mit sehr hoher Benetzbarkeit.", "correct": true }
+        ]
+    },
+    {
+        "question": "Was ist das primäre Ziel einer zentralen Registrierung mittels eines Artikulators des Typs B (z.B. Mittelwertartikulator) in der Prothetik?",
+        "answers": [
+            { "text": "Die exakte Simulation aller individuellen Kondylenbahnneigungen und Bennett-Winkel.", "correct": false },
+            { "text": "Die Übertragung der patientenindividuellen Ruheschwebelage in das Labor.", "correct": false },
+            { "text": "Die Orientierung der Kiefermodelle zueinander in der Interkuspidationsposition (IKP) oder Retralen Kontaktposition (RKP) zur statischen Okklusionsanalyse.", "correct": true },
+            { "text": "Die dynamische Überprüfung der Okklusion in Exkursionsbewegungen.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Komplikation ist am häufigsten mit der verschränkten Teleskopprothese (Konuskrone) im Vergleich zur Parallelwand-Teleskopprothese assoziiert?",
+        "answers": [
+            { "text": "Erhöhtes Risiko für eine Sekundärkaries an den Pfeilerzähnen.", "correct": false },
+            { "text": "Höhere Abzugskraft, die parodontale Überlastung der Pfeilerzähne verursachen kann.", "correct": true },
+            { "text": "Schnellerer Verlust der Friktion aufgrund von Abrieb der Friktionsflächen.", "correct": false },
+            { "text": "Schwierigere hygienische Reinigung der Innenfläche des Primärteils.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die wichtigste biomechanische Funktion einer starren Verbindung (z.B. ein Steg) zwischen zwei Implantaten in der zahnärztlichen Prothetik?",
+        "answers": [
+            { "text": "Erhöhung der ästhetischen Wirkung der Prothese.", "correct": false },
+            { "text": "Reduzierung des Knochenabbaus um die Einzelimplantate.", "correct": false },
+            { "text": "Verteilung der Kaukräfte auf mehrere Implantate und Reduktion der Einzelbelastung.", "correct": true },
+            { "text": "Vereinfachung der zahntechnischen Herstellung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welches Material ist aufgrund seiner hohen Biegefestigkeit und biokompatiblen Eigenschaften die bevorzugte Wahl für vollanatomische 3-gliedrige Brücken im Seitenzahnbereich, die im CAD/CAM-Verfahren hergestellt werden?",
+        "answers": [
+            { "text": "Lithiumdisilikat-Keramik (z.B. IPS e.max Press).", "correct": false },
+            { "text": "Goldlegierung (Typ IV).", "correct": false },
+            { "text": "Zirkondioxid-Keramik (Zirkoniumdioxid).", "correct": true },
+            { "text": "Metallkeramik mit hohem Goldanteil.", "correct": false }
+        ]
+    },
+    {
+        "question": "Die Präparationsgrenze (Präparationsstufe) bei einer Vollkeramikkrone sollte idealerweise in einer Chamfer- oder hohlen Kehle-Form ausgeführt werden. Welchen primären Zweck verfolgt diese Formgebung?",
+        "answers": [
+            { "text": "Minimierung des Abriebs am Antagonisten.", "correct": false },
+            { "text": "Erhöhung der Retention der Krone durch größere Oberfläche.", "correct": false },
+            { "text": "Gewährleistung einer ausreichenden Materialstärke der Keramik im kritischen Kronenrandbereich zur Vermeidung von Frakturen.", "correct": true },
+            { "text": "Erzielung einer besseren Ästhetik durch eine dicke opake Schicht.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die ätiologisch relevanteste Hypothese für die Entstehung des Burning-Mouth-Syndroms (BMS), das manchmal mit Prothesenträgern in Verbindung gebracht wird?",
+        "answers": [
+            { "text": "Eine allergische Reaktion auf das Prothesenmaterial (z.B. Monomer-Reste im Kunststoff).", "correct": false },
+            { "text": "Eine mechanische Irritation der Mundschleimhaut durch Prothesenränder.", "correct": false },
+            { "text": "Eine multifaktorielle, vorwiegend neuropathische oder psychogene Ätiologie.", "correct": true },
+            { "text": "Ein Pilzbefall (Candidose) unter der Prothesenbasis.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Artikulatorklasse erlaubt die einstellung von individuellen Kondylenbahnneigungen und Bennett-Winkeln sowie die Simulation aller statischen und dynamischen Okklusionskontakte?",
+        "answers": [
+            { "text": "Klasse I (Okkludator).", "correct": false },
+            { "text": "Klasse II (Mittelwertartikulator).", "correct": false },
+            { "text": "Klasse III (Semianpassbarer Artikulator).", "correct": false },
+            { "text": "Klasse IV (Vollanpassbarer Artikulator).", "correct": true }
+        ]
+    },
+    {
+        "question": "Was ist der häufigste Grund für den Misserfolg einer konventionellen Totalprothese im Unterkiefer?",
+        "answers": [
+            { "text": "Allergie gegen den Prothesenkunststoff.", "correct": false },
+            { "text": "Unzureichende Ästhetik der Prothesenzähne.", "correct": false },
+            { "text": "Mangelnde Retention und Stabilität aufgrund des stark reduzierten und beweglichen Prothesenlagers (flacher Alveolarkamm).", "correct": true },
+            { "text": "Übermäßige Okklusionskontakte in der Protrusionsbewegung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Konditionierungsmechanismus ist für die Adhäsion von Harz-modifizierten Glasionomerzementen (RMGIC) an Zahnhartsubstanz verantwortlich?",
+        "answers": [
+            { "text": "Makromechanische Verankerung in geätztem Schmelz.", "correct": false },
+            { "text": "Rein chemische Bindung der Methacrylate an Kollagenfasern.", "correct": false },
+            { "text": "Chemische Bindung der Polyacrylsäure an Kalziumionen in Schmelz und Dentin, kombiniert mit Mikromechanischer Verankerung des Harzanteils.", "correct": true },
+            { "text": "Kondensation eines Polysiloxans mit Feuchtigkeit.", "correct": false }
+        ]
+    },
+    {
+        "question": "Die Triple-Tray-Abformung wird für festsitzenden Zahnersatz (z.B. Einzelkrone) verwendet. Was ist ihr primärer biomechanischer Nachteil?",
+        "answers": [
+            { "text": "Hohe Kosten und lange Abbindezeit des Materials.", "correct": false },
+            { "text": "Fehlende Möglichkeit zur Darstellung der Kontralateralen Seite.", "correct": false },
+            { "text": "Potenzielle Verfälschung der Okklusion durch Überdehnung des weichen Gewebes im lingualen oder bukkalen Bereich während der Abformung.", "correct": true },
+            { "text": "Unzureichende Detailwiedergabe im Präparationsbereich.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist das Hauptziel der Funktionsdiagnostik (CMD-Diagnostik) vor einer umfangreichen prothetischen Rehabilitation?",
+        "answers": [
+            { "text": "Ausschließlich die Bestimmung der idealen vertikalen Dimension.", "correct": false },
+            { "text": "Die definitive Heilung aller craniomandibulären Dysfunktionen.", "correct": false },
+            { "text": "Identifizierung und, falls nötig, Eliminierung von Störfaktoren sowie Stabilisierung der Kieferrelation, um eine langfristig stabile prothetische Basis zu schaffen.", "correct": true },
+            { "text": "Die mechanische Registrierung der Interkuspidationsposition.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Indikation ist absolut kontraindiziert bei einer freiliegenden Furkation Grad II an einem potenziellen Pfeilerzahn?",
+        "answers": [
+            { "text": "Eine einzelne Teilkrone.", "correct": false },
+            { "text": "Ein Veneer.", "correct": false },
+            { "text": "Eine Extensionsbrücke (Freiendbrücke), bei der der betroffene Zahn den mesialen Pfeiler darstellt.", "correct": true },
+            { "text": "Eine adhäsive Brücke (Maryland-Brücke).", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist das Hauptproblem bei der prothetischen Versorgung von Patienten mit Oligodontie (angeborenes Fehlen vieler Zähne)?",
+        "answers": [
+            { "text": "Die meist erhöhte Speichelproduktion.", "correct": false },
+            { "text": "Die einfache Wiederherstellung einer idealen Okklusion.", "correct": false },
+            { "text": "Der oft reduzierte Alveolarkamm und die geringe Anzahl sowie die ungünstige Verteilung der Restzähne, was die Verankerung erschwert.", "correct": true },
+            { "text": "Die Überdimensionierung der vorhandenen Zähne.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Eigenschaft macht Zirkondioxid zu einem überlegenen Gerüstmaterial für große, festsitzende Brücken in der hinteren Stützzone?",
+        "answers": [
+            { "text": "Die hervorragende transluzente Ästhetik.", "correct": false },
+            { "text": "Die einfache und kostengünstige Verarbeitung durch Gussverfahren.", "correct": false },
+            { "text": "Die extrem hohe Biegefestigkeit und Bruchzähigkeit (Toughness), die eine hohe Widerstandsfähigkeit gegen Kaukräfte gewährleistet.", "correct": true },
+            { "text": "Die chemische Adhäsion an herkömmliche Zemente.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der klinisch bedeutendste Nachteil von metallischen Legierungen (Nicht-Edelmetall-Legierungen) für Kronen und Brücken im Vergleich zu Vollkeramik?",
+        "answers": [
+            { "text": "Die schlechtere Korrosionsbeständigkeit.", "correct": false },
+            { "text": "Die höhere Abriebfestigkeit.", "correct": false },
+            { "text": "Die geringere Ästhetik und das potenzielle Auftreten von Metallionen (Korrosion, allergische Reaktionen, Leitfähigkeit).", "correct": true },
+            { "text": "Die geringere Präzision der Passung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Behandlungsmaßnahme ist zwingend erforderlich, bevor eine Teleskopprothese mit stark parodontal geschädigten Pfeilerzähnen eingegliedert werden kann?",
+        "answers": [
+            { "text": "Sofortige Extraktion aller Zähne mit Lockerungsgrad III.", "correct": false },
+            { "text": "Eine rein kosmetische Vorbehandlung der Pfeilerzähne.", "correct": false },
+            { "text": "Eine umfassende, abgeschlossene parodontale Vorbehandlung (Parodontaltherapie) mit Stabilisierung der Pfeilerzähne und positiver Prognose.", "correct": true },
+            { "text": "Die Einnahme von Breitspektrum-Antibiotika.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die Funktion der Stützstiftregistrierung (Gotischer Bogen) bei der Totalprothetik?",
+        "answers": [
+            { "text": "Die Bestimmung der vertikalen Dimension der Okklusion.", "correct": false },
+            { "text": "Die Simulation der Bennett-Bewegung.", "correct": false },
+            { "text": "Die exakte Bestimmung und Fixierung der Horizontalen Kieferrelation (RKP) unabhängig von den beweglichen Schleimhäuten.", "correct": true },
+            { "text": "Die präzise Abformung des Prothesenlagers.", "correct": false }
+        ]
+    },
+    {
+        "question": "Die vertikale Dimension der Okklusion (VDO) ist bei vielen Patienten mit fortgeschrittener Abrasion reduziert. Welche klinische Konsequenz hat die Erhöhung der VDO im Rahmen einer Rehabilitation?",
+        "answers": [
+            { "text": "Es führt unweigerlich zu massiven Schmerzen und einer CMD.", "correct": false },
+            { "text": "Die Sprechfunktionen werden sofort beeinträchtigt, aber schnell adaptiert.", "correct": false },
+            { "text": "Die Notwendigkeit einer temporären Testphase (z.B. mit Schienen oder Langzeitprovisorien) zur Überprüfung der Toleranz, Ästhetik und Funktion vor der definitiven Versorgung.", "correct": true },
+            { "text": "Eine deutliche Verkürzung des interokklusalen Raumes in Ruheschwebe.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Unterschied zwischen einem Inlay und einer Teilkrone aus prothetischer Sicht?",
+        "answers": [
+            { "text": "Ein Inlay wird zementiert, eine Teilkrone geklebt.", "correct": false },
+            { "text": "Ein Inlay ersetzt nur die Höcker, eine Teilkrone die gesamte Okklusalfläche.", "correct": false },
+            { "text": "Eine Teilkrone wird immer aus Keramik hergestellt, ein Inlay aus Gold.", "correct": false },
+            { "text": "Die Teilkrone überkuppt einen oder mehrere Höcker (Kuspiden), um eine Frakturprophylaxe zu gewährleisten, während das Inlay innerhalb der Höckerspitzen bleibt.", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche biomechanische Kenngröße ist ausschlaggebend für die Belastbarkeit eines Implantats im nicht-achsialen (seitlichen) Kauvorgang?",
+        "answers": [
+            { "text": "Die Oberfläche des Abutments.", "correct": false },
+            { "text": "Die Länge der Implantatkrone.", "correct": false },
+            { "text": "Das Implantat-Krone-Verhältnis und der laterale Offset der Krone zum Implantatmittelpunkt.", "correct": true },
+            { "text": "Der verwendete Zementtyp.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der klinische Indikator für eine unmittelbare Unterfütterung einer Totalprothese?",
+        "answers": [
+            { "text": "Eine leichte Veränderung der Okklusion nach 1 Jahr.", "correct": false },
+            { "text": "Ein minimaler Verlust der Ästhetik.", "correct": false },
+            { "text": "Instabilität und Schaukeln der Prothese beim Kauen aufgrund von Knochenresorption und unzureichender Abstützung.", "correct": true },
+            { "text": "Das Auftreten eines metallischen Geschmacks.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Präparationsform wird für Vollguss- oder Metallkeramikkronen verwendet und bietet eine hohe mechanische Widerstandsfähigkeit des Präparationsrandes?",
+        "answers": [
+            { "text": "Knife Edge (Messerrand).", "correct": false },
+            { "text": "Hohle Kehle (Chamfer).", "correct": false },
+            { "text": "Tangentiale Präparation.", "correct": false },
+            { "text": "Schulterpräparation mit abgerundetem oder scharfem Innenwinkel.", "correct": true }
+        ]
+    },
+    {
+        "question": "Was ist die Hauptfunktion der Labial- und Bukkalstaffeln in einer Totalprothese?",
+        "answers": [
+            { "text": "Erhöhung der horizontalen Abstützung.", "correct": false },
+            { "text": "Vereinfachung der Polymerisation des Kunststoffs.", "correct": false },
+            { "text": "Abdichtung (Ventilrandeffekt) und Ausnutzung der Muskelkontraktion zur Stabilisierung und Retention der Prothese.", "correct": true },
+            { "text": "Rein ästhetische Gestaltung des Zahnfleisches.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welches Verfahren dient der dreidimensionalen Bestimmung der Implantatposition in Relation zu kritischen anatomischen Strukturen vor dem chirurgischen Eingriff?",
+        "answers": [
+            { "text": "Panoramaschichtaufnahme.", "correct": false },
+            { "text": "Konventionelle Gipsmodelle.", "correct": false },
+            { "text": "Digitale Volumentomographie (DVT) und computergestützte Implantatplanung (Guided Surgery).", "correct": true },
+            { "text": "Intraorale Kameraaufnahmen.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wichtigste mechanische Unterschied zwischen der Konuskrone und der Teleskopkrone mit parallelen Wänden?",
+        "answers": [
+            { "text": "Die Konuskrone ist ästhetischer.", "correct": false },
+            { "text": "Die Teleskopkrone erfordert weniger Präparation.", "correct": false },
+            { "text": "Die Konuskrone verwendet einen Keileffekt (selt-lock) für die Retention ohne Friktion, während die Teleskopkrone auf Reibung (Friktion) zwischen parallelen Wänden basiert.", "correct": true },
+            { "text": "Die Konuskrone ist herausnehmbar, die Teleskopkrone festsitzend.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche chemische Bindung ist zentral für die Adhäsion von Kompositen an Zirkondioxid nach Tribochemischer Silikatisierung (z.B. Rocatec-Verfahren)?",
+        "answers": [
+            { "text": "Die reine mechanische Mikroverzahnung.", "correct": false },
+            { "text": "Die Ionenaustauschbindung mit Kalzium.", "correct": false },
+            { "text": "Die chemische Silan-Bindung (Silankupplung) an die Siliziumdioxid-Schicht auf der Zirkonoberfläche.", "correct": true },
+            { "text": "Die kovalente Bindung zwischen Polymer und Hydroxylgruppen.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Versorgung gilt als Mittel der Wahl zur Stabilisierung eines stark reduzierten Restgebisses mit ungünstiger Verteilung der Restzähne?",
+        "answers": [
+            { "text": "Modellguss-Klammerprothese.", "correct": false },
+            { "text": "Adhäsive Brücken.", "correct": false },
+            { "text": "Teleskop- oder Konuskronenprothese zur splintierenden und kraftverteilenden Versorgung.", "correct": true },
+            { "text": "Extensionsbrücke.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die kritischste klinische Variable bei der Auswahl der Implantatlänge im Oberkiefer-Seitenzahnbereich?",
+        "answers": [
+            { "text": "Der vertikale Abstand zur Okklusionsebene.", "correct": false },
+            { "text": "Der Abstand zur Alveolarknochenspitze.", "correct": false },
+            { "text": "Der Abstand zum Sinusboden (Sinus maxillaris) und die Notwendigkeit eines Sinuslifts.", "correct": true },
+            { "text": "Die Dicke der bukkalen Kortikalis.", "correct": false }
+        ]
+    },
+    {
+        "question": "Die Non-Compliance (mangelnde Mitarbeit) des Patienten ist ein wichtiger Faktor. In welcher prothetischen Disziplin hat sie die gravierendsten negativen Auswirkungen?",
+        "answers": [
+            { "text": "Einzelkronenversorgung.", "correct": false },
+            { "text": "Vollkeramik-Inlay.", "correct": false },
+            { "text": "Totalprothetik (besonders in der Eingewöhnungsphase und bei der Pflege), da die Adaption stark von der Mitarbeit abhängt.", "correct": true },
+            { "text": "Zementierte festsitzende Brücken.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welches Verfahren ist zur klinischen Überprüfung der Passgenauigkeit von metallischen Prothesengerüsten (z.B. Modellguss) am genauesten?",
+        "answers": [
+            { "text": "Visuelle Inspektion nach dem Einsetzen.", "correct": false },
+            { "text": "Fingerdruck-Test (Rocking-Test).", "correct": false },
+            { "text": "Der Silikon- oder Disclosing-Wax-Test zur lokalen Analyse von Druckstellen oder ungenügender Abstützung.", "correct": true },
+            { "text": "Röntgenkontrolle nach Zementierung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Vorteil von galvanisch hergestellten Sekundärkronen in der Teleskopprothetik?",
+        "answers": [
+            { "text": "Höhere Kosten.", "correct": false },
+            { "text": "Geringere Härte und Abriebfestigkeit.", "correct": false },
+            { "text": "Extrem hohe Präzision und Passgenauigkeit der Friktionsfläche (Sekundärteil), die eine gleichmäßige und langlebige Retention ermöglicht.", "correct": true },
+            { "text": "Chemische Bindung an den Primärzement.", "correct": false }
+        ]
+    },
+    {
+        "question": "In der Totalprothetik wird der neutrale Zone-Ansatz verwendet. Was ist sein primäres Ziel?",
+        "answers": [
+            { "text": "Die Vermeidung von Schmerzen an den Prothesenrändern.", "correct": false },
+            { "text": "Die Herstellung einer idealen Ästhetik der Zahnstellung.", "correct": false },
+            { "text": "Die Positionierung der künstlichen Zähne im Gleichgewichtsbereich zwischen lingualer und bukkaler Muskulatur zur maximalen Prothesenstabilität.", "correct": true },
+            { "text": "Die exakte Registrierung der Zentrik.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Komplikation ist typisch für die Implantatprothetik im Posteriorbereich bei unkontrolliertem Bruxismus?",
+        "answers": [
+            { "text": "Entwicklung von Parodontitis am Antagonisten.", "correct": false },
+            { "text": "Fraktur des Abutments bei verschraubtem Zahnersatz.", "correct": false },
+            { "text": "Lockerung der Implantatschraube oder Fraktur der Keramikverblendung aufgrund übermäßiger lateraler und schräger Kräfte.", "correct": true },
+            { "text": "Überwucherung der Krone durch das Zahnfleisch.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist das Hauptkriterium für die prothetische Planung der Brückenlänge nach der Ante's Law (Ant'sche Regel)?",
+        "answers": [
+            { "text": "Die Brückenlänge sollte nicht mehr als drei Spannen umfassen.", "correct": false },
+            { "text": "Die parodontale Oberfläche der Pfeilerzähne muss mindestens der Wurzeloberfläche der zu ersetzenden Zähne entsprechen oder diese übertreffen.", "correct": true },
+            { "text": "Die Länge des Brückengliedes darf maximal das 1,5-fache der Pfeilerzahnbreite betragen.", "correct": false },
+            { "text": "Das Verhältnis von Kronenlänge zu Wurzellänge darf 1:1 nicht überschreiten.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Art von Okklusionskonzept wird in der Totalprothetik typischerweise bevorzugt, um die Stabilität der Prothese zu maximieren?",
+        "answers": [
+            { "text": "Eckzahngeführte Okklusion.", "correct": false },
+            { "text": "Gruppenfunktion.", "correct": false },
+            { "text": "Bilateral balancierte Okklusion (Ausgleichsokklusion) mit gleichmäßig verteilten Kontakten in Zentrik und Exkursion.", "correct": true },
+            { "text": "Frontzahngeführte Okklusion.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die klinisch relevanteste Funktion einer Verblockung (Splinting) von parodontal geschädigten Zähnen vor der prothetischen Versorgung?",
+        "answers": [
+            { "text": "Verbesserung der Ästhetik.", "correct": false },
+            { "text": "Erleichterung der Reinigung.", "correct": false },
+            { "text": "Reduzierung der Zahnbeweglichkeit und Verteilung von Kaukräften zur Entlastung des geschwächten Parodonts.", "correct": true },
+            { "text": "Verhinderung von Sekundärkaries.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welches Abutment-Design ist am besten geeignet, um das Risiko des Peri-Implantitis zu minimieren?",
+        "answers": [
+            { "text": "Ein langes Abutment mit großem Durchmesser.", "correct": false },
+            { "text": "Ein Abutment mit scharfer Kante zur Gingiva.", "correct": false },
+            { "text": "Das Platform-Switching-Konzept (Durchmesser der Plattform kleiner als der Implantathals), um den mikrobiellen Spalt von der periimplantären Knochengrenze fernzuhalten.", "correct": true },
+            { "text": "Ein glattes, poliertes Titanabutment.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wichtigste Nachteil des Adhäsiv-Zementierungsverfahrens für Vollkeramikrestaurationen (Klebung) im Vergleich zur konventionellen Zementierung?",
+        "answers": [
+            { "text": "Geringere mechanische Festigkeit der Restauration.", "correct": false },
+            { "text": "Notwendigkeit einer geringeren Präzision der Passung.", "correct": false },
+            { "text": "Die extreme klinische Sensibilität gegenüber Feuchtigkeit und die Notwendigkeit des absoluten Trockenlegens (Kofferdam).", "correct": true },
+            { "text": "Höheres Risiko einer Randspaltbildung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Versorgung ist zwingend indiziert bei einem Zahn mit großem Substanzverlust und endodontischer Behandlung, um eine Fraktur zu verhindern?",
+        "answers": [
+            { "text": "Ein großes Komposit-Inlay.", "correct": false },
+            { "text": "Ein Veneer.", "correct": false },
+            { "text": "Eine Vollkrone oder Teilkrone mit Höckerüberkupplung.", "correct": true },
+            { "text": "Eine adhäsive Brücke.", "correct": false }
+        ]
+    },
+    {
+        "question": "Der Artikulator wird mittels eines Gesichtsbogens (Facebow) im Oberkiefer orientiert. Was ist die Funktion dieser Übertragung?",
+        "answers": [
+            { "text": "Die Bestimmung der Ruheschwebelage.", "correct": false },
+            { "text": "Die Registrierung der maximalen Interkuspidation.", "correct": false },
+            { "text": "Die Übertragung der Lage des Oberkiefers in Relation zur Scharnierachse und zur horizontalen Referenzebene des Patienten.", "correct": true },
+            { "text": "Die Messung der Kaumuskulaturaktivität.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welches Verfahren dient zur Passivierung einer festsitzenden Implantatbrücke mit multiplen Implantaten?",
+        "answers": [
+            { "text": "Die chemische Ätzung der Gerüstunterseite.", "correct": false },
+            { "text": "Das polieren des Zementspalts.", "correct": false },
+            { "text": "Die intraorale Lötung oder Laserschweißung des mehrteiligen Gerüstes zur Spannungsfreiheit der Struktur.", "correct": true },
+            { "text": "Die Anwendung von Adhäsivzementen.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche biomechanische Unterschied zwischen einer Extensionsbrücke (Freiendbrücke) und einer konventionellen Endpfeilerbrücke?",
+        "answers": [
+            { "text": "Die Extensionsbrücke wird immer aus Gold gefertigt.", "correct": false },
+            { "text": "Die Extensionsbrücke hat ein längeres Brückenglied.", "correct": false },
+            { "text": "Das Brückenglied der Extensionsbrücke wird nur einseitig abgestützt, was zu Torsionskräften und Kippmomenten am Pfeilerzahn führt.", "correct": true },
+            { "text": "Die konventionelle Brücke ist leichter zu reinigen.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Maßnahme ist bei der Rehabilitation einer stark reduzierten vertikalen Dimension (VDO) zwingend?",
+        "answers": [
+            { "text": "Sofortige Totalprothese.", "correct": false },
+            { "text": "Ausschließliche Verwendung von Keramikinlays.", "correct": false },
+            { "text": "Eine schrittweise Erhöhung der VDO mit reversiblen Methoden (z.B. Okklusionsschiene oder Langzeitprovisorium), um die Adaption zu testen.", "correct": true },
+            { "text": "Eine vollständige Extraktion aller Restzähne.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der Hauptmechanismus der Retention einer Modellguss-Klammerprothese?",
+        "answers": [
+            { "text": "Adhäsion und Kohäsion.", "correct": false },
+            { "text": "Ventilrandeffekt.", "correct": false },
+            { "text": "Die mechanische Verankerung durch den retentiven Arm der Klammer im Unterschnitt des Pfeilerzahnes.", "correct": true },
+            { "text": "Osseointegration.", "correct": false }
+        ]
+    },
+    {
+        "question": "Der Shimstock-Test dient der Überprüfung von Okklusionskontakten. Welche Dicke hat dieses Kontrollpapier (Folie) in der Regel?",
+        "answers": [
+            { "text": "50 µm.", "correct": false },
+            { "text": "100 µm.", "correct": false },
+            { "text": "8-12 µm.", "correct": true },
+            { "text": "200 µm.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der biomechanische Vorteil einer geschraubten im Vergleich zu einer zementierten implantatgetragenen Krone?",
+        "answers": [
+            { "text": "Geringere ästhetische Beeinträchtigung.", "correct": false },
+            { "text": "Einfacheres Handling während der Eingliederung.", "correct": false },
+            { "text": "Die einfache Reversibilität und leichte Entfernbarkeit zur Wartung und Reinigung ohne Zerstörung der Krone.", "correct": true },
+            { "text": "Bessere Passgenauigkeit.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Konsequenz hat die Nichteinhaltung des minimalen Interokklusalabstandes (Freiraum) bei der Kronenpräparation?",
+        "answers": [
+            { "text": "Erhöhtes Risiko für Parodontitis.", "correct": false },
+            { "text": "Verbesserte Ästhetik.", "correct": false },
+            { "text": "Mangelnde Materialstärke der Krone, was zu Frakturen oder Okklusionsstörungen (vorzeitiger Kontakt) führt.", "correct": true },
+            { "text": "Geringere Empfindlichkeit des Zahnes.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der Hauptnachteil einer Hybridprothese (auf Implantaten und Restzähnen) im Vergleich zu einer reinen implantatgetragenen Prothese?",
+        "answers": [
+            { "text": "Die höhere Anzahl an Implantaten.", "correct": false },
+            { "text": "Die bessere Ästhetik.", "correct": false },
+            { "text": "Das mögliche Auftreten von Scherkräften und Mobilitätsproblemen aufgrund des unterschiedlichen Bewegungsumfangs (Physiologischer Spalt) zwischen Zahn und Implantat.", "correct": true },
+            { "text": "Die längere Herstellungszeit.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die wichtigste mechanische Voraussetzung für die Funktion einer Geschiebeprothese?",
+        "answers": [
+            { "text": "Die Verwendung von Keramikzahnreihen.", "correct": false },
+            { "text": "Ein minimaler Abstand von 5 mm zwischen Geschiebe und Alveolarknochen.", "correct": false },
+            { "text": "Die strikte Parallelität der Primärkronen und des Geschiebes zur Ermöglichung des spannungsfreien Einsetzens und der maximalen Friktion.", "correct": true },
+            { "text": "Die adhäsive Befestigung des Sekundärteils.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Art von Abrasion ist typisch für Patienten mit einer Parafunktion (z.B. Bruxismus) und erfordert eine prothetische Rehabilitation?",
+        "answers": [
+            { "text": "Demineralisation und Erosion der Zahnhälse.", "correct": false },
+            { "text": "Läsionen der Zahnhartsubstanz im zervikalen Bereich.", "correct": false },
+            { "text": "Okklusale und inzisale Abnutzung (flächige Abrasionsfacetten) der Zahnhöcker und Schneidekanten.", "correct": true },
+            { "text": "Chemische Auflösung der Füllungsränder.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Unterschied zwischen chemisch härtenden und lichtpolymerisierenden Prothesenkunststoffen?",
+        "answers": [
+            { "text": "Lichtpolymerisierende Kunststoffe haben eine höhere Schrumpfung.", "correct": false },
+            { "text": "Chemisch härtende Kunststoffe sind ästhetischer.", "correct": false },
+            { "text": "Chemisch härtende Kunststoffe haben einen höheren Restmonomergehalt, was zu allergischen Reaktionen führen kann, während lichtpolymerisierende Kunststoffe geringere Schrumpfung und bessere mechanische Eigenschaften aufweisen.", "correct": true },
+            { "text": "Chemisch härtende Kunststoffe benötigen eine externe Lichtquelle.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Versorgung gilt als Goldstandard für die Versorgung einer großen Freiendsituation (fehlende Zähne posterior ohne distale Abstützung) im Unterkiefer?",
+        "answers": [
+            { "text": "Konventionelle Modellguss-Klammerprothese.", "correct": false },
+            { "text": "Extensionsbrücke.", "correct": false },
+            { "text": "Implantatgetragene Versorgung (Brücke oder Cover-Denture) zur Reduzierung der Freiendbelastung und Knochenerhalt.", "correct": true },
+            { "text": "Adhäsive Brücke.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Vorteil von galvanisch hergestellten Goldkäppchen als Primärkrone (Innenteleskop) in der Teleskopprothetik?",
+        "answers": [
+            { "text": "Sie sind deutlich günstiger als alle anderen Materialien.", "correct": false },
+            { "text": "Sie sind chemisch inert und haben keine Korrosion.", "correct": false },
+            { "text": "Extrem dünne Wandstärke und präzise Passung (hohe Friktion) bei maximaler Biokompatibilität.", "correct": true },
+            { "text": "Sie können mit jedem Zement befestigt werden.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Zahnformel beschreibt eine Klasse I (Kennedy-Klassifikation)?",
+        "answers": [
+            { "text": "Eine einzelne Lücke im Seitenzahnbereich.", "correct": false },
+            { "text": "Eine Lücke im Frontzahnbereich, die die Mittellinie kreuzt.", "correct": false },
+            { "text": "Bilateraler (beidseitiger) Freiendverlust (fehlende distale Abstützung).", "correct": true },
+            { "text": "Einseitiger Freiendverlust.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist das Hauptproblem bei der Reparatur einer Vollkeramikbrücke im Frontzahnbereich?",
+        "answers": [
+            { "text": "Die schlechte Zugänglichkeit des Defekts.", "correct": false },
+            { "text": "Die fehlende chemische Bindung des Reparaturkomposits an die Keramik.", "correct": false },
+            { "text": "Die Schwierigkeit, eine farblich und strukturell nahtlose und langfristig stabile Verbindung zwischen der gealterten Keramik und dem Reparaturmaterial herzustellen.", "correct": true },
+            { "text": "Die Fraktur des Antagonisten.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Zementtyp wird primär für die konventionelle Zementierung von Metallkeramikkronen (ohne Adhäsion) empfohlen?",
+        "answers": [
+            { "text": "Harz-modifizierter Glasionomerzement (RMGIC).", "correct": false },
+            { "text": "Ätz- und Bond-System (Total-Etch).", "correct": false },
+            { "text": "Glasionomerzement (GIC) oder Zinkoxidphosphat-Zement.", "correct": true },
+            { "text": "Silikat-Zement.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die klinische Bedeutung des Bennett-Winkels bei der Artikulation von Zahnersatz?",
+        "answers": [
+            { "text": "Er bestimmt die vertikale Kieferrelation.", "correct": false },
+            { "text": "Er beschreibt die Neigung der Kondylenbahn in der Sagittalebene.", "correct": false },
+            { "text": "Er beeinflusst die Form und Ausdehnung der Okklusalflächen und der Höckerneigung, um Früherkontakte bei lateralen Bewegungen zu vermeiden.", "correct": true },
+            { "text": "Er ist nur für die Frontzahnführung relevant.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Maßnahme ist bei der Sofortimplantation (Implantation direkt nach Extraktion) zwingend erforderlich, um eine langfristige Stabilität zu gewährleisten?",
+        "answers": [
+            { "text": "Ausschließliche Verwendung von Zirkondioxid-Implantaten.", "correct": false },
+            { "text": "Sofortige prothetische Belastung.", "correct": false },
+            { "text": "Ein suffizientes Knochenangebot apikal des Implantats (mind. 3-4 mm) und eine ausreichend hohe Primärstabilität (>35 Ncm).", "correct": true },
+            { "text": "Eine vollständige Freilegung der Implantatschulter.", "correct": false }
+        ]
+    },
+    {
+        "question": "Die Gingiva-Former (Healing Abutments) werden nach der Implantation verwendet. Was ist ihre Hauptfunktion?",
+        "answers": [
+            { "text": "Sie dienen als provisorische Krone.", "correct": false },
+            { "text": "Sie verhindern die Osseointegration.", "correct": false },
+            { "text": "Sie formen das periimplantäre Weichgewebe (Gingiva) zu einem ästhetischen und hygienefähigen Profil für die definitive Krone.", "correct": true },
+            { "text": "Sie fixieren das Implantat im Knochen.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche ästhetische Vorteil von Lithiumdisilikat-Keramik (z.B. IPS e.max) gegenüber Zirkondioxid für Einzelkronen im Frontzahnbereich?",
+        "answers": [
+            { "text": "Die höhere Biegefestigkeit.", "correct": false },
+            { "text": "Die bessere chemische Beständigkeit.", "correct": false },
+            { "text": "Die überlegene Transluzenz und Opaleszenz, die der natürlichen Zahnhartsubstanz am nächsten kommt.", "correct": true },
+            { "text": "Die geringere Abriebfestigkeit.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Art der Okklusion ist zwingend erforderlich bei der Implantatversorgung im Seitenzahnbereich?",
+        "answers": [
+            { "text": "Ausschließlich Protrusionskontakte.", "correct": false },
+            { "text": "Kontakte, die nur durch die Frontzähne geführt werden.", "correct": false },
+            { "text": "Eine Okklusion, die laterale und protrusive (schräge) Kräfte auf die Implantatkrone weitestgehend vermeidet (keine Exkursionskontakte).", "correct": true },
+            { "text": "Eine Okklusion, die nur im Ruhezustand Kontakte aufweist.", "correct": false }
+        ]
+    },
+    {
+        "question": "Der Abstand der Implantate zueinander ist entscheidend. Was ist der empfohlene Mindestabstand zwischen zwei Implantaten, um den interproximalen Knochen zu erhalten?",
+        "answers": [
+            { "text": "1,0 mm.", "correct": false },
+            { "text": "1,5 mm.", "correct": false },
+            { "text": "Mindestens 3,0 mm (ideal 3,5 mm) zwischen den Implantatkörpern.", "correct": true },
+            { "text": "5,0 mm.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die wichtigste mechanische Funktion einer Brückenverankerung durch Primär- und Sekundärkrone (Teleskop) an einem vitalen Zahn?",
+        "answers": [
+            { "text": "Die Verbesserung der Ästhetik.", "correct": false },
+            { "text": "Die Reduzierung der bakteriellen Besiedlung.", "correct": false },
+            { "text": "Die Reduzierung des Torsionsmomentes am Pfeilerzahn und Abschirmung vor lateralen Scherkräften.", "correct": true },
+            { "text": "Die vereinfachte Reinigung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Versorgung ist bei einer maximalen Freiendsituation (Kennedy Klasse I) im Unterkiefer bei geringem vertikalen Knochenangebot kontraindiziert?",
+        "answers": [
+            { "text": "Ein Cover-Denture auf 4 Implantaten.", "correct": false },
+            { "text": "Eine Teleskopprothese auf 4 Pfeilerzähnen.", "correct": false },
+            { "text": "Eine starre, zementierte Extensionsbrücke.", "correct": true },
+            { "text": "Eine Modellguss-Klammerprothese.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der Hauptmechanismus der Schrumpfung von Polymerisations-Kunststoffen (z.B. PMMA) in der Prothetik?",
+        "answers": [
+            { "text": "Die Abgabe von Wasser beim Aushärten.", "correct": false },
+            { "text": "Die chemische Reaktion mit Sauerstoff.", "correct": false },
+            { "text": "Die Umwandlung von Monomeren in Polymere (Polymerisation) mit Volumenreduktion.", "correct": true },
+            { "text": "Die Verdampfung von flüchtigen Bestandteilen.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher klinische Indikator spricht eindeutig für eine erhöhte Bisslage (VDO) nach Eingliederung einer Prothese?",
+        "answers": [
+            { "text": "Ein zu großer interokklusaler Raum.", "correct": false },
+            { "text": "Scharfe Zähne.", "correct": false },
+            { "text": "Das 'Klicken' der Zähne beim Sprechen oder Schluckbeschwerden aufgrund des fehlenden Ruheschweberaumes.", "correct": true },
+            { "text": "Ein zu geringer Lippenschluss.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die wichtigste biomechanische Anforderung an Implantate bei einer All-on-4-Versorgung (festsitzend, vier Implantate)?",
+        "answers": [
+            { "text": "Ein rein achsialer Kraftvektor.", "correct": false },
+            { "text": "Ausschließliche Verwendung von Keramikkronen.", "correct": false },
+            { "text": "Die Verblockung der Implantate zu einer starren Einheit und die gezielte Abwinkelung der distalen Implantate zur Verlängerung der Abstützbasis (antero-posteriorer Spread).", "correct": true },
+            { "text": "Die Verwendung von selbstschneidenden Schrauben.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Zementtyp ist für die adhäsive Befestigung von dünnen Vollkeramik-Veneers aufgrund seiner farbstabilität und geringen Löslichkeit am besten geeignet?",
+        "answers": [
+            { "text": "Glasionomerzement.", "correct": false },
+            { "text": "Zinkoxidphosphat-Zement.", "correct": false },
+            { "text": "Lichtpolymerisierendes Komposit-Zement (nur bei dünner Schichtdicke) oder Dual-Cure-Komposit-Zement.", "correct": true },
+            { "text": "Kondensationsvernetzendes Silikon.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wichtigste Grund für die Verwendung einer Diagnostischen Wachs-up (Wax-up) in der prothetischen Planung?",
+        "answers": [
+            { "text": "Die Bestimmung der Ruhelage.", "correct": false },
+            { "text": "Die abschließende Farbauswahl der Keramik.", "correct": false },
+            { "text": "Die Visualisierung des prothetischen Ziels in Ästhetik und Funktion und als Vorlage für das Provisorium (Mock-up).", "correct": true },
+            { "text": "Die Messung der Zahnlockerung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Versorgung gilt als absolut kontraindiziert bei einem unbehandelten, stark entzündeten Parodont?",
+        "answers": [
+            { "text": "Eine Füllungstherapie.", "correct": false },
+            { "text": "Ein Veneer.", "correct": false },
+            { "text": "Jede Form von Zahnersatz (festsitzend oder herausnehmbar), die die parodontale Situation verschlechtert oder keine Parodontalbehandlung zulässt.", "correct": true },
+            { "text": "Eine Okklusionsschiene.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die Hauptfunktion der Polyacrylsäure im Glasionomerzement (GIC) bei der Zementierung?",
+        "answers": [
+            { "text": "Sie dient als Füllstoff.", "correct": false },
+            { "text": "Sie initiiert die Polymerisation.", "correct": false },
+            { "text": "Sie bindet chemisch an Kalziumionen in der Zahnhartsubstanz und ermöglicht die Adhäsion.", "correct": true },
+            { "text": "Sie erhöht die Opazität des Zements.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Unterschied zwischen einer Teleskopkrone und einer Konuskrone in Bezug auf die Präparationsform?",
+        "answers": [
+            { "text": "Die Teleskopkrone wird immer supragingival präpariert.", "correct": false },
+            { "text": "Die Konuskrone erfordert eine scharfe Schulter.", "correct": false },
+            { "text": "Die Teleskopkrone hat parallele (0-2 Grad Konuswinkel) Wände zur Friktion, während die Konuskrone eine stärkere Konizität (4-8 Grad) zur Keilretention aufweist.", "correct": true },
+            { "text": "Die Konuskrone ist immer metallfrei.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welches Verfahren dient zur klinischen Registrierung des Ruheschweberaumes (Interokklusalabstand)?",
+        "answers": [
+            { "text": "Der Gotische Bogen.", "correct": false },
+            { "text": "Der Facebow.", "correct": false },
+            { "text": "Der Phonetik-Test (Sprechprobe) zur Bestimmung der VDO und der Ruheposition des Unterkiefers.", "correct": true },
+            { "text": "Die Triple-Tray-Abformung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wichtigste Vorteil der CAD/CAM-Technologie bei der Herstellung von Zirkondioxidgerüsten?",
+        "answers": [
+            { "text": "Geringere Kosten für den Patienten.", "correct": false },
+            { "text": "Verwendung von konventionellen Abformungen.", "correct": false },
+            { "text": "Extrem hohe Präzision und Reproduzierbarkeit der Passung und homogene Materialqualität durch industrielle Fertigung.", "correct": true },
+            { "text": "Die chemische Bindung an den Zement.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Art der Schleimhaut dient als ideales Prothesenlager (tragede) im Oberkiefer?",
+        "answers": [
+            { "text": "Bewegliche, nicht-keratinisierte Schleimhaut.", "correct": false },
+            { "text": "Nicht-belastbare Submukosa.", "correct": false },
+            { "text": "Feste, keratinisierte und dicke Schleimhaut auf dem Alveolarkamm und Gaumen (z.B. Raphe palatina).", "correct": true },
+            { "text": "Die freie Gingiva.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die wichtigste Indikation für eine Teilunterfütterung einer Prothese?",
+        "answers": [
+            { "text": "Die Anpassung an eine neue Farbe.", "correct": false },
+            { "text": "Der Wunsch des Patienten nach einer weicheren Prothese.", "correct": false },
+            { "text": "Lokalisierte und persistierende Druckstellen und Entzündungen aufgrund ungleichmäßiger Belastung oder Knochenresorption.", "correct": true },
+            { "text": "Ein Riss in der Prothese.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Indikation ist kontraindiziert bei einem Zahn mit einer Lockerung von Grad III?",
+        "answers": [
+            { "text": "Eine einfache Füllung.", "correct": false },
+            { "text": "Eine Okklusionsschiene.", "correct": false },
+            { "text": "Jede Form von Zahnersatz (z.B. Brückenpfeiler, Teleskopkrone) an diesem Zahn, da die Prognose fraglich bis hoffnungslos ist.", "correct": true },
+            { "text": "Ein Veneer.", "correct": false }
+        ]
+    },
+    {
+        "question": "Der Gotische Bogen (Stützstiftregistrierung) dient der Bestimmung der zentrischen Kieferrelation. Wie wird die horizontale Komponente dieser Relation genauer bestimmt?",
+        "answers": [
+            { "text": "Durch visuelle Inspektion.", "correct": false },
+            { "text": "Durch Tasten der Kondylen.", "correct": false },
+            { "text": "Durch das Auffinden des Scheitelpunktes (Apex) auf der Registrierplatte, der die reproduzierbarste horizontale Kieferposition darstellt.", "correct": true },
+            { "text": "Durch Messung des Interokklusalabstandes.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der biomechanische Vorteil einer Brücke gegenüber einer Modellguss-Klammerprothese zur Versorgung einer Schaltlücke?",
+        "answers": [
+            { "text": "Die einfachere Reparatur bei Defekten.", "correct": false },
+            { "text": "Die geringeren Kosten.", "correct": false },
+            { "text": "Die festsitzende Verankerung und vollständige Abstützung über die Pfeilerzähne führt zu einer physiologischeren (achsialeren) Belastung.", "correct": true },
+            { "text": "Die leichtere Eingewöhnung des Patienten.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Indikation ist bei stark reduzierten und dislozierten (wandernden) Restzähnen am ehesten geeignet?",
+        "answers": [
+            { "text": "Konventionelle Brücken.", "correct": false },
+            { "text": "Veneers.", "correct": false },
+            { "text": "Teleskop- oder Konuskronenprothese zur splintierenden Stabilisierung und Ausgleich der Fehlstellungen.", "correct": true },
+            { "text": "Adhäsive Brücken.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die Hauptaufgabe des Primärteils (Innenteleskop) einer Teleskopkrone?",
+        "answers": [
+            { "text": "Die Ästhetik der Prothese zu verbessern.", "correct": false },
+            { "text": "Die Prothese herausnehmbar zu machen.", "correct": false },
+            { "text": "Die Präparierte Zahnsubstanz zu schützen, Retentionsfläche für das Sekundärteil zu bieten und parallele (oder konische) Führungsflächen zu schaffen.", "correct": true },
+            { "text": "Die okklusale Führung zu übernehmen.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Konditionierungsschritt ist für die adhäsive Befestigung von Zirkondioxid-Restaurationen unerlässlich?",
+        "answers": [
+            { "text": "Die chemische Ätzung mit Flusssäure.", "correct": false },
+            { "text": "Die Behandlung mit einem Silan.", "correct": false },
+            { "text": "Das Sandstrahlen (Luftabrasion) mit Aluminiumoxid-Partikeln (30-50 µm) zur mikromechanischen Aufrauung und Reinigung der Oberfläche.", "correct": true },
+            { "text": "Das Erhitzen im Brennofen.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die wichtigste Indikation für die Verwendung eines vollanpassbaren Artikulators (Klasse IV)?",
+        "answers": [
+            { "text": "Einzelkronenversorgung im Frontzahnbereich.", "correct": false },
+            { "text": "Einfache Füllungstherapie.", "correct": false },
+            { "text": "Umfangreiche Rehabilitationen mit Veränderung der vertikalen und horizontalen Kieferrelation (VDO/RKP) oder bei CMD-Patienten.", "correct": true },
+            { "text": "Totalprothetik.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der biomechanische Vorteil einer Metallkeramikkrone gegenüber einer Vollgusskrone im Seitenzahnbereich?",
+        "answers": [
+            { "text": "Die höhere Abriebfestigkeit.", "correct": false },
+            { "text": "Die einfachere Präparation.", "correct": false },
+            { "text": "Die bessere Ästhetik durch die Keramikverblendung bei gleichzeitig hoher mechanischer Stabilität durch das Metallgerüst.", "correct": true },
+            { "text": "Die geringere thermische Leitfähigkeit.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Konditionierungsschritt ist für die Adhäsion von Harz-Kompositen an Schmelz am wichtigsten?",
+        "answers": [
+            { "text": "Sandstrahlen.", "correct": false },
+            { "text": "Silanisierung.", "correct": false },
+            { "text": "Ätzung mit Phosphorsäure zur Entstehung von Mikroporositäten und größerer Oberfläche.", "correct": true },
+            { "text": "Erhitzen.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die Hauptindikation für eine Suprakonstruktion (festsitzender Zahnersatz) auf zwei einzeln stehenden Implantaten im Oberkiefer-Frontzahnbereich?",
+        "answers": [
+            { "text": "Die Versorgung eines Freiendes.", "correct": false },
+            { "text": "Die Stabilisierung einer Totalprothese.", "correct": false },
+            { "text": "Die Versorgung einer kleinen Schaltlücke (z.B. zwei fehlende Zähne) mit Einzelkronen auf jedem Implantat.", "correct": true },
+            { "text": "Die Erhöhung der Bisslage.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Prothesenkunststoff wird aufgrund seiner hohen Bruchfestigkeit und geringen Wasseraufnahme für hochwertige Totalprothesen bevorzugt?",
+        "answers": [
+            { "text": "Kaltpolymerisat (chemisch härtend).", "correct": false },
+            { "text": "Lichtpolymerisat.", "correct": false },
+            { "text": "Heißpolymerisat (wärmegehärtet) nach Druck-Polymerisation.", "correct": true },
+            { "text": "Silikon.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der klinisch wichtigste Aspekt bei der Auswahl der Prothesenzähne für eine Totalprothese?",
+        "answers": [
+            { "text": "Ausschließlich der Preis.", "correct": false },
+            { "text": "Die Größe der Stützstifte.", "correct": false },
+            { "text": "Die Ästhetik (Form, Farbe, Größe) und die Okklusalfläche (z.B. nach Pound oder Gysi) zur Funktionswiederherstellung und Stabilität.", "correct": true },
+            { "text": "Die Wahl des Artikulators.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welches Verfahren wird zur Reinigung und Oberflächenaktivierung von Titanimplantaten nach Freilegung empfohlen?",
+        "answers": [
+            { "text": "Ätzung mit Flusssäure.", "correct": false },
+            { "text": "Behandlung mit Silan.", "correct": false },
+            { "text": "Sandstrahlen mit geringem Druck und kleinen Partikeln (z.B. TiO2) oder chemische Reinigung zur Entfernung des Plaques und Aktivierung.", "correct": true },
+            { "text": "Polieren mit einem Gummipolierer.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die Hauptfunktion der Labialwange einer Totalprothese im Oberkiefer?",
+        "answers": [
+            { "text": "Stabilisierung des Unterkiefers.", "correct": false },
+            { "text": "Ästhetische Korrektur der Zahnfarbe.", "correct": false },
+            { "text": "Wiederherstellung des Gesichtsprofils (Lippenunterstützung) und Ventilrandschluss zur Retention.", "correct": true },
+            { "text": "Übertragung der Kaubelastung auf den Kieferknochen.", "correct": false }
+        ]
+    },
+    {
+        "question": "Die Inlay-Brücke (Adhäsivbrücke mit Inlays in den Pfeilerzähnen) wird heute seltener verwendet. Was ist der Hauptnachteil dieser Konstruktion?",
+        "answers": [
+            { "text": "Die fehlende Ästhetik.", "correct": false },
+            { "text": "Die geringe Kostenersparnis.", "correct": false },
+            { "text": "Die reduzierte Retention und das hohe Risiko der Sekundärkaries im Präparationsrandbereich des Inlays.", "correct": true },
+            { "text": "Die einfache Reinigung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Unterschied zwischen keramischen und metallischen Abutments in der Implantatprothetik?",
+        "answers": [
+            { "text": "Keramische Abutments sind immer geschraubt.", "correct": false },
+            { "text": "Metallische Abutments haben eine bessere Ästhetik.", "correct": false },
+            { "text": "Keramische Abutments (Zirkondioxid) bieten eine überlegene Ästhetik (kein 'Grey Shine') in der Front und sind biokompatibler, während metallische Abutments höhere mechanische Festigkeit aufweisen.", "correct": true },
+            { "text": "Metallische Abutments sind teurer.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Konditionierungsschritt ist bei der adhäsiven Befestigung von Feldspatkeramik-Veneers obligatorisch?",
+        "answers": [
+            { "text": "Sandstrahlen mit Aluminiumoxid.", "correct": false },
+            { "text": "Behandlung mit Silan allein.", "correct": false },
+            { "text": "Ätzung mit Flusssäure zur Erzeugung von Mikro-Retentionen und anschließende Silanisierung.", "correct": true },
+            { "text": "Verwendung von Glasionomerzement.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist das Hauptziel der Funktionsanalyse (Instrumentelle zahnärztliche Funktionsanalyse) vor einer umfangreichen prothetischen Versorgung?",
+        "answers": [
+            { "text": "Die Messung der Speichelfließrate.", "correct": false },
+            { "text": "Die Bestimmung der optimalen Zahnfarbe.", "correct": false },
+            { "text": "Die Erfassung der patientenindividuellen und pathologischen Bewegungsabläufe des Unterkiefers zur Vermeidung von iatrogenen Okklusionsstörungen.", "correct": true },
+            { "text": "Die Bestimmung der optimalen Implantatgröße.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Versorgung ist zwingend indiziert bei einem Einzelzahnverlust im Frontzahnbereich bei perfekter Parodontalsituation der Nachbarzähne?",
+        "answers": [
+            { "text": "Konventionelle Brücke.", "correct": false },
+            { "text": "Extensionsbrücke.", "correct": false },
+            { "text": "Einzelzahnimplantat oder Adhäsivbrücke (Maryland) zur maximalen Schonung der Nachbarzähne.", "correct": true },
+            { "text": "Modellguss-Klammerprothese.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Vorteil von Zirkondioxid-Keramik gegenüber Metallkeramik im Hinblick auf die ästhetische Integrität?",
+        "answers": [
+            { "text": "Die höhere Biegefestigkeit.", "correct": false },
+            { "text": "Die einfache Reparierbarkeit.", "correct": false },
+            { "text": "Das Fehlen eines opaken Metallkerns (keine 'graue Linie' am Zahnfleischrand) und überlegene Lichttransmission.", "correct": true },
+            { "text": "Die geringere Abriebfestigkeit.", "correct": false }
+        ]
+    },
+    {
+        "question": "Die Polyether-Abformmaterialien sind sehr beliebt. Was ist ihr Hauptnachteil im Vergleich zu A-Silikonen?",
+        "answers": [
+            { "text": "Die schlechtere Detailwiedergabe.", "correct": false },
+            { "text": "Die geringere Hydrophilie.", "correct": false },
+            { "text": "Die höhere Steifigkeit nach dem Abbinden, was das Entfernen bei Unterschnitten erschweren kann, und die höhere Wasseraufnahme (Volumenstabilität).", "correct": true },
+            { "text": "Die lange Verarbeitungszeit.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die wichtigste biomechanische Funktion einer Brückenpräparation (Konvergenzwinkel)?",
+        "answers": [
+            { "text": "Die ästhetische Gestaltung des Kronenrandes.", "correct": false },
+            { "text": "Die Reduzierung der bakteriellen Retention.", "correct": false },
+            { "text": "Die Erzeugung von ausreichend Retention und Widerstand gegen Kipp- und Scherkräfte (Widerstandsform) bei minimalem Substanzverlust.", "correct": true },
+            { "text": "Die Vereinfachung der Abformung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Art von Knochendefekt erfordert am ehesten einen Bone-Graft (Knochenaufbau) vor einer Implantation?",
+        "answers": [
+            { "text": "Ein kleiner Defekt auf der bukkalen Seite.", "correct": false },
+            { "text": "Ein Defekt im Weichgewebe.", "correct": false },
+            { "text": "Ein massiver vertikaler oder horizontaler Knochendefekt, der eine ausreichende Dimension zur Umhüllung des Implantats nicht zulässt.", "correct": true },
+            { "text": "Eine leichte Schleimhautverdickung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Nachteil einer Totalprothese im Vergleich zu einer implantatgestützten Overdenture (Deckprothese)?",
+        "answers": [
+            { "text": "Die längere Herstellungszeit.", "correct": false },
+            { "text": "Die höhere Kosten.", "correct": false },
+            { "text": "Die deutlich geringere Retention und Stabilität (Schaukeln), die zu Schleimhautirritationen und eingeschränkter Kau- und Sprechfunktion führt.", "correct": true },
+            { "text": "Die einfache Reinigung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Teil einer Teleskopprothese überträgt die Kaukräfte primär auf die Pfeilerzähne?",
+        "answers": [
+            { "text": "Die Prothesenbasis.", "correct": false },
+            { "text": "Die Prothesenzähne.", "correct": false },
+            { "text": "Die Okklusalfläche und die parallelen Innenwände des Sekundärteils (Außenteleskop).", "correct": true },
+            { "text": "Die Prothesenklammern.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die wichtigste Funktion der Frontzahnführung (Inzisalführung) in der dynamischen Okklusion?",
+        "answers": [
+            { "text": "Die Bestimmung der maximalen Interkuspidation.", "correct": false },
+            { "text": "Die Erhöhung der Ästhetik.", "correct": false },
+            { "text": "Die sofortige Disklusion (Höcker-Trennung) der Seitenzähne bei protrusiven und lateralen Bewegungen, um Überbelastung zu vermeiden.", "correct": true },
+            { "text": "Die Stabilisierung der Totalprothese.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Indikation ist zwingend für eine metallfreie Versorgung im Frontzahnbereich?",
+        "answers": [
+            { "text": "Ein Zahn mit endodontischer Behandlung.", "correct": false },
+            { "text": "Ein Zahn mit geringem Substanzverlust.", "correct": false },
+            { "text": "Hohe ästhetische Ansprüche (Lichttransmission) und dünnes oder rezessives Weichgewebe (um 'Grey Shine' zu vermeiden).", "correct": true },
+            { "text": "Ein Zahn mit Abrasion.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Vorteil von Polyether (PE) als Abformmaterial gegenüber A-Silikon (PVS) für Präzisionsabformungen?",
+        "answers": [
+            { "text": "Geringere Kosten.", "correct": false },
+            { "text": "Geringere Härte.", "correct": false },
+            { "text": "Überlegene Hydrophilie und geringere Schrumpfung bei genauer Detailwiedergabe in feuchter Umgebung.", "correct": true },
+            { "text": "Längere Verarbeitungszeit.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wichtigste Nachteil der Modellgussprothese gegenüber der Teleskopprothese?",
+        "answers": [
+            { "text": "Bessere Ästhetik.", "correct": false },
+            { "text": "Bessere Retention.", "correct": false },
+            { "text": "Die häufig schlechtere Ästhetik (sichtbare Klammern), mangelnde Stabilisierung (kein Splinting) und höhere Belastung der Pfeilerzähne (Hebelkräfte).", "correct": true },
+            { "text": "Höhere Kosten.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Komplikation ist am häufigsten mit zementierten implantatgetragenen Kronen assoziiert?",
+        "answers": [
+            { "text": "Fraktur der Krone.", "correct": false },
+            { "text": "Lockerung der Implantatschraube.", "correct": false },
+            { "text": "Retention von Zementresten im Sulcus, was zu Periimplantitis führen kann.", "correct": true },
+            { "text": "Abrasion des Antagonisten.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die wichtigste biomechanische Funktion der Kauebene bei der Totalprothetik?",
+        "answers": [
+            { "text": "Sie bestimmt die Höhe des Alveolarkamms.", "correct": false },
+            { "text": "Sie ist eine willkürliche Entscheidung des Zahntechnikers.", "correct": false },
+            { "text": "Sie orientiert die Zahnreihen in einem Gleichgewicht zwischen Funktion (Kaukräfte) und Stabilität (Prothesenbasis) in Relation zu den Kiefergelenken.", "correct": true },
+            { "text": "Sie bestimmt die Farbe der Zähne.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Art von Abutment-Verbindung gilt als Goldstandard für die Vermeidung von Mikrobewegungen und Bakterieninvasion (im Bereich des Knochens)?",
+        "answers": [
+            { "text": "Externe Hex-Verbindung.", "correct": false },
+            { "text": "Schraubverbindung.", "correct": false },
+            { "text": "Interne konische (Morse-Taper-artige) Verbindung (Cone Connection) mit hoher Passgenauigkeit.", "correct": true },
+            { "text": "Kugelkopf-Attachment.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Unterschied zwischen temporären und permanenten Weichprothesenunterfütterungen?",
+        "answers": [
+            { "text": "Temporäre sind langlebiger.", "correct": false },
+            { "text": "Permanente enthalten Monomere.", "correct": false },
+            { "text": "Temporäre dienen der Konditionierung der entzündeten Schleimhaut (Kurzzeitgebrauch) und Permanente der dauerhaften Entlastung (z.B. scharfer Kieferkamm).", "correct": true },
+            { "text": "Temporäre werden im Labor hergestellt.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Versorgung ist bei einem Patienten mit schwerer Parodontitis und stark reduzierten Restzähnen kontraindiziert?",
+        "answers": [
+            { "text": "Implantatgetragene Overdenture.", "correct": false },
+            { "text": "Totalprothese.", "correct": false },
+            { "text": "Konventionelle Brücke oder Extensionsbrücke aufgrund der ungünstigen und nicht stabilisierten Pfeilerprognose.", "correct": true },
+            { "text": "Modellguss-Klammerprothese mit geringer Retention.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die Hauptfunktion der Labialleiste (Labial-Flange) in einer Oberkiefer-Totalprothese?",
+        "answers": [
+            { "text": "Verbesserung der Farbauswahl.", "correct": false },
+            { "text": "Reduzierung des Kaukomforts.", "correct": false },
+            { "text": "Erzeugung des Ventilrandschlusses (Retention) und ästhetische Unterstützung der Oberlippe.", "correct": true },
+            { "text": "Stabilisierung des Unterkiefers.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welches Verfahren dient zur klinischen Überprüfung der Knochen-Implantat-Verbindung (Osseointegration)?",
+        "answers": [
+            { "text": "Der Rocking-Test.", "correct": false },
+            { "text": "Der Shimstock-Test.", "correct": false },
+            { "text": "Die Perkutationsprobe (Klopftest) und Resonanzfrequenzanalyse (RFA/Osstell-Messung) zur Bestimmung der Implantatstabilität (ISQ-Wert).", "correct": true },
+            { "text": "Der Zementrest-Test.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche biomechanische Unterschied zwischen Konus- und Teleskopprothese in Bezug auf die Belastung der Pfeilerzähne?",
+        "answers": [
+            { "text": "Die Teleskopprothese überträgt rein achsiale Kräfte.", "correct": false },
+            { "text": "Die Konuskrone führt zu einer geringeren Mobilität.", "correct": false },
+            { "text": "Die Konuskrone ermöglicht durch den Keileffekt eine splintierende und quasi-festsitzende Wirkung, die die Belastung der Pfeilerzähne gleichmäßiger verteilt.", "correct": true },
+            { "text": "Die Konuskrone ist immer metallfrei.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Zementtyp wird primär für die Befestigung von Gold-Inlays und Onlays bevorzugt?",
+        "answers": [
+            { "text": "Harz-modifizierter Glasionomerzement (RMGIC).", "correct": false },
+            { "text": "Komposit-Zement (adhäsiv).", "correct": false },
+            { "text": "Zinkoxidphosphat-Zement aufgrund seiner Dünnflüssigkeit und klinisch erprobten Langzeitstabilität.", "correct": true },
+            { "text": "Kalziumhydroxid-Zement.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die wichtigste Aufgabe der Labialisierung (Auffüllung der Prothesenbasis) in der Front bei Totalprothesen?",
+        "answers": [
+            { "text": "Die Erhöhung der vertikalen Dimension.", "correct": false },
+            { "text": "Die Reduzierung des Ventilrandschlusses.", "correct": false },
+            { "text": "Die ästhetische Wiederherstellung des Lippenprofils und der unterstützenden Strukturen.", "correct": true },
+            { "text": "Die Verringerung der Speichelansammlung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher prothetische Eingriff ist zwingend indiziert bei einem Zahn mit großer Fraktur bis unterhalb des Alveolarkamms?",
+        "answers": [
+            { "text": "Ein Veneer.", "correct": false },
+            { "text": "Ein adhäsives Inlay.", "correct": false },
+            { "text": "Chirurgische Kronenverlängerung (Crown Lengthening) vor der definitiven prothetischen Versorgung (Krone).", "correct": true },
+            { "text": "Eine Teleskopkrone.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Unterschied zwischen festsitzendem und herausnehmbarem Zahnersatz in Bezug auf die Belastung des Prothesenlagers?",
+        "answers": [
+            { "text": "Festsitzender Zahnersatz belastet immer nur die Zähne.", "correct": false },
+            { "text": "Herausnehmbarer Zahnersatz ist immer komfortabler.", "correct": false },
+            { "text": "Festsitzender Zahnersatz überträgt Kaukräfte physiologischer über Zähne oder Implantate, während herausnehmbarer Zahnersatz die Schleimhaut und den Kieferknochen zusätzlich belastet.", "correct": true },
+            { "text": "Herausnehmbarer Zahnersatz hat eine bessere Ästhetik.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die kritischste Fehlerquelle bei der Abformung mit A-Silikon (PVS)?",
+        "answers": [
+            { "text": "Zu lange Abbindezeit.", "correct": false },
+            { "text": "Hohe Kosten des Materials.", "correct": false },
+            { "text": "Die Inhibierung der Polymerisation durch latexhaltige Handschuhe oder Blut (Sulfat), was zu ungenügender Aushärtung und Verzerrung führt.", "correct": true },
+            { "text": "Die geringe Hydrophilie.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Versorgung ist bei einem Patienten mit Osteoporose und Bisphosphonat-Einnahme kontraindiziert?",
+        "answers": [
+            { "text": "Eine einfache Füllung.", "correct": false },
+            { "text": "Eine Totalprothese.", "correct": false },
+            { "text": "Die Implantation und chirurgische Eingriffe aufgrund des hohen Risikos einer Bisphosphonat-assoziierten Kiefernekrose (BRONJ).", "correct": true },
+            { "text": "Eine Okklusionsschiene.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Vorteil von Zirkondioxid gegenüber Metallkeramik in Bezug auf die Plaque-Affinität?",
+        "answers": [
+            { "text": "Die geringere Härte.", "correct": false },
+            { "text": "Die höhere Korrosionsbeständigkeit.", "correct": false },
+            { "text": "Die glattere Oberfläche und geringere Oberflächenenergie führen zu einer geringeren Adhäsion von Plaque und Bakterien.", "correct": true },
+            { "text": "Die einfache Reparierbarkeit.", "correct": false }
+        ]
+    },
+    {
+        "question": "Die Äquilibrierung von Zahnersatz dient der harmonischen Okklusion. Was ist ihr Hauptziel bei der Totalprothetik?",
+        "answers": [
+            { "text": "Die Verlängerung der Kauebene.", "correct": false },
+            { "text": "Die Erhöhung der Bisslage.", "correct": false },
+            { "text": "Die gleichmäßige Verteilung der Kontakte in Zentrik und Exkursion zur maximalen Stabilisierung der Prothese (balancierte Okklusion).", "correct": true },
+            { "text": "Die Entfernung aller Frontzahnkontakte.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Maßnahme ist bei einem Patienten mit starkem Würgereflex kontraindiziert?",
+        "answers": [
+            { "text": "Eine kurze Oberkiefer-Totalprothese.", "correct": false },
+            { "text": "Eine Unterkiefer-Totalprothese.", "correct": false },
+            { "text": "Eine große Gaumenabdeckung durch eine Oberkiefer-Totalprothese oder große Brücken.", "correct": true },
+            { "text": "Eine Adhäsivbrücke.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Vorteil von Implantaten gegenüber konventionellen Brücken zur Versorgung einer Schaltlücke?",
+        "answers": [
+            { "text": "Geringere Kosten.", "correct": false },
+            { "text": "Kürzere Behandlungsdauer.", "correct": false },
+            { "text": "Die Schonung der gesunden Nachbarzähne (keine Präparation notwendig) und Erhalt des Alveolarknochens.", "correct": true },
+            { "text": "Bessere Ästhetik.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Art der prothetischen Versorgung wird bevorzugt bei Patienten mit starkem und unkontrolliertem Bruxismus?",
+        "answers": [
+            { "text": "Vollkeramik-Restaurationen.", "correct": false },
+            { "text": "Adhäsivbrücken.", "correct": false },
+            { "text": "Vollguss- oder hochgoldhaltige Legierungskronen mit Okklusionsschutz (Schiene) aufgrund ihrer höheren mechanischen Festigkeit.", "correct": true },
+            { "text": "Lithiumdisilikat-Veneers.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die wichtigste biomechanische Funktion einer Schulterpräparation bei Vollkeramikkronen?",
+        "answers": [
+            { "text": "Reduzierung des Kronenrandspaltes.", "correct": false },
+            { "text": "Erhöhung der Retention.", "correct": false },
+            { "text": "Gewährleistung einer ausreichenden Materialstärke der Keramik am Kronenrand und geringe Spannung bei Belastung.", "correct": true },
+            { "text": "Vereinfachung der Abformung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Klinische Schritt ist zwingend erforderlich, bevor eine Totalprothese definitiv eingegliedert wird?",
+        "answers": [
+            { "text": "Eine chirurgische Extraktion aller Restzähne.", "correct": false },
+            { "text": "Die Erstellung einer Okklusionsschiene.", "correct": false },
+            { "text": "Die Überprüfung der statischen und dynamischen Okklusion und die Korrektur aller Früherkontakte.", "correct": true },
+            { "text": "Eine professionelle Zahnreinigung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Nachteil von Kondensationsvernetzenden Silikonen (C-Silikon) gegenüber A-Silikonen?",
+        "answers": [
+            { "text": "Die bessere Hydrophilie.", "correct": false },
+            { "text": "Die längere Dimensionsstabilität.", "correct": false },
+            { "text": "Die Verdampfung des Nebenprodukts Ethanol führt zu einer kontinuierlichen Schrumpfung und mangelnder Dimensionsstabilität.", "correct": true },
+            { "text": "Die höhere Härte.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Art von Zahnverlust wird durch die Kennedy-Klasse IV beschrieben?",
+        "answers": [
+            { "text": "Fehlen aller Seitenzähne.", "correct": false },
+            { "text": "Fehlen eines einzelnen Zahnes.", "correct": false },
+            { "text": "Ein einseitiger oder beidseitiger Verlust von Frontzähnen, der die Mittellinie überschreitet.", "correct": true },
+            { "text": "Bilateraler Freiendverlust.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Unterschied zwischen Knochenniveau (Bone Level) und Gingivaniveau (Tissue Level) Implantaten?",
+        "answers": [
+            { "text": "Bone Level Implantate sind immer kürzer.", "correct": false },
+            { "text": "Tissue Level Implantate haben eine bessere Ästhetik.", "correct": false },
+            { "text": "Bone Level Implantate werden auf oder unter dem Knochenniveau platziert und Tissue Level Implantate haben einen polierten und glatten Hals auf Gingivaniveau.", "correct": true },
+            { "text": "Tissue Level Implantate sind immer geschraubt.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die wichtigste mechanische Anforderung an Okklusionsschienen bei CMD-Patienten?",
+        "answers": [
+            { "text": "Sie müssen aus weichem Material sein.", "correct": false },
+            { "text": "Sie müssen eine perfekte Ästhetik haben.", "correct": false },
+            { "text": "Sie müssen hart und passgenau sein und eine definierte Okklusionsfläche aufweisen, die eine zentrische Relation ermöglicht.", "correct": true },
+            { "text": "Sie müssen nur im Oberkiefer getragen werden.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Zementtyp wird primär für die Befestigung von Zirkondioxidkronen (mit Adhäsion) empfohlen?",
+        "answers": [
+            { "text": "Zinkoxidphosphat-Zement.", "correct": false },
+            { "text": "Glasionomerzement.", "correct": false },
+            { "text": "Phosphat-Monomer-haltiger Harzzement (z.B. MDP-Zement) zur chemischen Bindung an das Zirkondioxid.", "correct": true },
+            { "text": "Kalziumhydroxid-Zement.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Unterschied zwischen der Eckzahnführung und der Gruppenfunktion in der dynamischen Okklusion?",
+        "answers": [
+            { "text": "Die Eckzahnführung ist ästhetischer.", "correct": false },
+            { "text": "Die Gruppenfunktion ist für die Totalprothese obligatorisch.", "correct": false },
+            { "text": "Die Eckzahnführung trennt alle Seitenzähne bei lateralen Bewegungen (Disklusion), während die Gruppenfunktion die Kaukräfte auf mehrere Zähne der Arbeitsseite verteilt.", "correct": true },
+            { "text": "Die Gruppenfunktion erhöht die Bisslage.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Versorgung ist bei einem Patienten mit chronischer Mundtrockenheit (Xerostomie) kontraindiziert?",
+        "answers": [
+            { "text": "Ein Veneer.", "correct": false },
+            { "text": "Eine Implantatkrone.", "correct": false },
+            { "text": "Herausnehmbarer Zahnersatz (Totalprothese) aufgrund der stark reduzierten Adhäsion und erhöhten Schleimhautirritation.", "correct": true },
+            { "text": "Eine Okklusionsschiene.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wichtigste Faktor für die langfristige Stabilität einer Teleskopprothese an parodontal geschädigten Zähnen?",
+        "answers": [
+            { "text": "Die Zahnfarbe der Prothese.", "correct": false },
+            { "text": "Die Länge der Sekundärkrone.", "correct": false },
+            { "text": "Die splintierende und kraftverteilende Wirkung der teleskopierenden Konstruktion und die Parodontale Gesundheit der Pfeilerzähne.", "correct": true },
+            { "text": "Die Verwendung von Weichprothesenkunststoff.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welches Verfahren dient zur Passivierung einer festsitzenden Brücke mit großer Spanne vor der Zementierung?",
+        "answers": [
+            { "text": "Der Gotische Bogen.", "correct": false },
+            { "text": "Der Shimstock-Test.", "correct": false },
+            { "text": "Die klinische Überprüfung der spannungsfreien Auflage (Rocking-Test) auf den Präparaten und gegebenenfalls die Durchtrennung und intraorale Lötung.", "correct": true },
+            { "text": "Die Resonanzfrequenzanalyse.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Vorteil von Implantat-Overdentures gegenüber konventionellen Totalprothesen im Unterkiefer?",
+        "answers": [
+            { "text": "Die geringeren Kosten.", "correct": false },
+            { "text": "Die einfache Reinigung.", "correct": false },
+            { "text": "Die deutlich höhere Retention und Stabilität durch die Verankerung an Implantaten, was den Kaukomfort und die Lebensqualität massiv verbessert.", "correct": true },
+            { "text": "Die Notwendigkeit einer größeren Prothesenbasis.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Klinische Indikator spricht eindeutig für eine zu niedrige Bisslage (VDO) nach Eingliederung einer Prothese?",
+        "answers": [
+            { "text": "Das 'Klicken' der Zähne beim Sprechen.", "correct": false },
+            { "text": "Schluckbeschwerden.", "correct": false },
+            { "text": "Ein zu großer interokklusaler Ruhe- oder Sprechabstand (Freiraum) und ein 'eingefallenes' Gesichtsprofil.", "correct": true },
+            { "text": "Ein zu geringer Lippenschluss.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die wichtigste Funktion des lingualen Abstützbügels bei einer Modellguss-Klammerprothese im Unterkiefer?",
+        "answers": [
+            { "text": "Die Retention der Prothese.", "correct": false },
+            { "text": "Die ästhetische Gestaltung.", "correct": false },
+            { "text": "Die starre Verbindung der Prothesenteile und die Verteilung der Belastung auf die Restzähne und das Prothesenlager.", "correct": true },
+            { "text": "Die Verbesserung der Sprachfunktion.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Maßnahme ist bei einer großen Schaltlücke im Seitenzahnbereich mit hohen ästhetischen Ansprüchen am ehesten geeignet?",
+        "answers": [
+            { "text": "Modellguss-Klammerprothese.", "correct": false },
+            { "text": "Konventionelle Metallkeramik-Brücke.", "correct": false },
+            { "text": "Implantatgetragene Brücke mit vollkeramischer oder Zirkondioxid-Versorgung.", "correct": true },
+            { "text": "Extensionsbrücke.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Unterschied zwischen temporären und definitiven Implantatabformungen?",
+        "answers": [
+            { "text": "Temporäre sind immer aus Metall.", "correct": false },
+            { "text": "Definitive sind immer geschraubt.", "correct": false },
+            { "text": "Definitive Abformungen erfassen die exakte Position der Implantate mit hoher Präzision zur Herstellung des definitiven Zahnersatzes.", "correct": true },
+            { "text": "Temporäre sind immer aus Kunststoff.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Art von Zahnersatz ist zwingend indiziert bei einem Einzelzahnverlust im Frontzahnbereich bei Jugendlichen (noch nicht abgeschlossenes Wachstum)?",
+        "answers": [
+            { "text": "Einzelzahnimplantat.", "correct": false },
+            { "text": "Konventionelle Brücke.", "correct": false },
+            { "text": "Adhäsivbrücke (Maryland) oder herausnehmbares Provisorium, da Implantate das Kieferwachstum behindern.", "correct": true },
+            { "text": "Teleskopkrone.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die wichtigste mechanische Funktion der Stützstellen (Auflagen) einer Modellguss-Klammerprothese?",
+        "answers": [
+            { "text": "Die ästhetische Gestaltung.", "correct": false },
+            { "text": "Die Verringerung der Speichelansammlung.", "correct": false },
+            { "text": "Die vertikale Abstützung und Verhinderung des Einsinkens der Prothese in die Schleimhaut.", "correct": true },
+            { "text": "Die Stabilisierung der Prothese.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welches Verfahren dient zur klinischen Überprüfung der horizontale und vertikale Kieferrelation (VDO/RKP) vor der definitiven Prothetik?",
+        "answers": [
+            { "text": "Der Shimstock-Test.", "correct": false },
+            { "text": "Die Perkutationsprobe.", "correct": false },
+            { "text": "Der Gotische Bogen (Stützstiftregistrierung) und die phonetische Bestimmung.", "correct": true },
+            { "text": "Die Triple-Tray-Abformung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Nachteil von Zinkoxid-Eugenol-Zement (ZOE) in der permanenten Prothetik?",
+        "answers": [
+            { "text": "Die hohe mechanische Festigkeit.", "correct": false },
+            { "text": "Die gute Ästhetik.", "correct": false },
+            { "text": "Die geringe mechanische Festigkeit und Löslichkeit, was zu Randspalten und Sekundärkaries führen kann.", "correct": true },
+            { "text": "Die kurze Abbindezeit.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Versorgung ist bei einem Patienten mit schwerer generalisierter Abrasion am ehesten indiziert?",
+        "answers": [
+            { "text": "Einzelne Füllungen.", "correct": false },
+            { "text": "Adhäsive Brücken.", "correct": false },
+            { "text": "Umfangreiche Rehabilitation mit Vollkronen und Wiederherstellung der vertikalen Dimension (VDO) unter Funktionskontrolle.", "correct": true },
+            { "text": "Modellguss-Klammerprothese.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die wichtigste biomechanische Funktion der Einführhilfe (Insertionshilfe) bei Teleskopprothesen?",
+        "answers": [
+            { "text": "Die Steigerung der Ästhetik.", "correct": false },
+            { "text": "Die Vereinfachung der Zahnreinigung.", "correct": false },
+            { "text": "Die exakte Führung und Parallelschaltung der Primär- und Sekundärteile zur spannungsfreien und korrekten Eingliederung.", "correct": true },
+            { "text": "Die Erhöhung der vertikalen Dimension.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Konditionierungsschritt ist für die adhäsive Befestigung von Feldspatkeramikkronen obligatorisch?",
+        "answers": [
+            { "text": "Sandstrahlen mit Aluminiumoxid.", "correct": false },
+            { "text": "Behandlung mit Phosphorsäure.", "correct": false },
+            { "text": "Ätzung mit Flusssäure und anschließende Silanisierung zur Verbesserung der Oberflächenhaftung.", "correct": true },
+            { "text": "Verwendung von Glasionomerzement.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Unterschied zwischen Inlay und Onlay aus prothetischer Sicht?",
+        "answers": [
+            { "text": "Das Onlay ist immer aus Gold.", "correct": false },
+            { "text": "Das Inlay wird immer geklebt.", "correct": false },
+            { "text": "Das Onlay bedeckt einen oder mehrere Höcker zur Frakturprophylaxe, während das Inlay innerhalb der Höcker bleibt.", "correct": true },
+            { "text": "Das Onlay hat eine bessere Ästhetik.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Versorgung ist bei einem Patienten mit extrem flachem Alveolarkamm im Unterkiefer kontraindiziert?",
+        "answers": [
+            { "text": "Implantatgetragene Overdenture.", "correct": false },
+            { "text": "Totalprothese mit Mini-Implantaten.", "correct": false },
+            { "text": "Konventionelle Totalprothese ohne Implantatabstützung aufgrund der mangelnden Retention und Stabilität.", "correct": true },
+            { "text": "Okklusionsschiene.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die Hauptfunktion der Polymerisationsschrumpfung in der Prothetik?",
+        "answers": [
+            { "text": "Die Erhöhung der Härte.", "correct": false },
+            { "text": "Die Verbesserung der Ästhetik.", "correct": false },
+            { "text": "Die Volumenreduktion während der Polymerisation des Kunststoffs, die zu Spannungen und Passungenauigkeiten führen kann.", "correct": true },
+            { "text": "Die Reduzierung des Restmonomergehalts.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Klinische Schritt ist zwingend erforderlich, bevor eine Brückenpräparation an vitalen Zähnen begonnen wird?",
+        "answers": [
+            { "text": "Die Extraktion aller nicht erhaltungswürdigen Zähne.", "correct": false },
+            { "text": "Die Erstellung einer Totalprothese.", "correct": false },
+            { "text": "Die präoperative Bestimmung der vertikalen Dimension und Analyse der Okklusion.", "correct": true },
+            { "text": "Die Unterfütterung der Prothese.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Unterschied zwischen chemisch härtenden und lichtpolymerisierenden Kompositen in der prothetischen Befestigung?",
+        "answers": [
+            { "text": "Chemisch härtende Komposite sind ästhetischer.", "correct": false },
+            { "text": "Lichtpolymerisierende Komposite härten nur in dünnen Schichten.", "correct": false },
+            { "text": "Lichtpolymerisierende Komposite erfordern Lichtzugang zur Polymerisation, während chemisch härtende (oder Dual-Cure) Komposite unabhängig von der Schichtdicke durchhärten.", "correct": true },
+            { "text": "Chemisch härtende Komposite sind teurer.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Versorgung ist bei einem Patienten mit extrem reduziertem Restgebiss und hohen ästhetischen und funktionellen Ansprüchen am ehesten geeignet?",
+        "answers": [
+            { "text": "Modellguss-Klammerprothese.", "correct": false },
+            { "text": "Totalprothese.", "correct": false },
+            { "text": "Festsitzende Implantatbrücke (z.B. All-on-4/6) oder Teleskopprothese mit ästhetischer Verblendung.", "correct": true },
+            { "text": "Adhäsivbrücke.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die Hauptfunktion der Funktionsabformung (Funktionsabdruck) bei der Totalprothetik?",
+        "answers": [
+            { "text": "Die Registrierung der maximalen Interkuspidation.", "correct": false },
+            { "text": "Die Bestimmung der optimalen Zahnfarbe.", "correct": false },
+            { "text": "Die Erfassung der beweglichen Weichteile im Grenzbereich des Prothesenlagers zur Gewährleistung des Ventilrandschlusses und der Stabilität.", "correct": true },
+            { "text": "Die Messung der Kaumuskulaturaktivität.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Klinische Indikator spricht eindeutig für eine Hyperbalance (Frühkontakt in der Balanceseite) nach Eingliederung einer Totalprothese?",
+        "answers": [
+            { "text": "Ein zu großer interokklusaler Raum.", "correct": false },
+            { "text": "Das Klicken der Zähne beim Sprechen.", "correct": false },
+            { "text": "Das Schaukeln und Instabilität der Prothese beim Kauen oder lateralen Bewegungen.", "correct": true },
+            { "text": "Ein zu geringer Lippenschluss.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Unterschied zwischen Hybrid-Keramik und Zirkondioxid in Bezug auf die Bruchzähigkeit?",
+        "answers": [
+            { "text": "Zirkondioxid ist ästhetischer.", "correct": false },
+            { "text": "Hybrid-Keramik ist langlebiger.", "correct": false },
+            { "text": "Zirkondioxid besitzt eine deutlich höhere Bruchzähigkeit (Toughness) und Biegefestigkeit als Hybrid-Keramik (z.B. Vita Enamic), die hauptsächlich im Inlay/Onlay-Bereich verwendet wird.", "correct": true },
+            { "text": "Hybrid-Keramik ist immer verschraubt.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Maßnahme ist bei einem Zahn mit großer Fraktur im Wurzelbereich und unmöglicher Kronenverlängerung zwingend indiziert?",
+        "answers": [
+            { "text": "Ein Veneer.", "correct": false },
+            { "text": "Eine Teleskopkrone.", "correct": false },
+            { "text": "Extraktion und anschließende Versorgung mit Implantat oder Brücke.", "correct": true },
+            { "text": "Eine Okklusionsschiene.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wichtigste mechanische Vorteil von Polyether (PE) als Abformmaterial gegenüber Alginat?",
+        "answers": [
+            { "text": "Die geringeren Kosten.", "correct": false },
+            { "text": "Die kürzere Abbindezeit.", "correct": false },
+            { "text": "Die deutlich höhere Detailwiedergabe und Dimensionsstabilität zur Herstellung von Präzisionsabdrücken.", "correct": true },
+            { "text": "Die bessere Ästhetik.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Art von prothetischer Versorgung ist zwingend indiziert bei einem Patienten mit multiplem und ausgedehntem Zahnverlust im Ober- und Unterkiefer?",
+        "answers": [
+            { "text": "Einzelne Füllungen.", "correct": false },
+            { "text": "Adhäsive Brücken.", "correct": false },
+            { "text": "Umfassende prothetische Rehabilitation mit Totalprothesen, Teleskopprothesen oder implantatgestütztem Zahnersatz.", "correct": true },
+            { "text": "Okklusionsschiene.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Nachteil von Kondensationsvernetzenden Silikonen (C-Silikon) in der Präzisionsabformung?",
+        "answers": [
+            { "text": "Die hohe Hydrophilie.", "correct": false },
+            { "text": "Die lange Verarbeitungszeit.", "correct": false },
+            { "text": "Die Verdampfung des Nebenprodukts Ethanol führt zu einer kontinuierlichen Schrumpfung und mangelnder Dimensionsstabilität.", "correct": true },
+            { "text": "Die geringe Härte.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Maßnahme ist bei einer maximalen Freiendsituation (Kennedy Klasse I) im Oberkiefer bei geringem vertikalen Knochenangebot kontraindiziert?",
+        "answers": [
+            { "text": "Ein Cover-Denture auf 4 Implantaten.", "correct": false },
+            { "text": "Eine Teleskopprothese auf 4 Pfeilerzähnen.", "correct": false },
+            { "text": "Eine starre, zementierte Extensionsbrücke.", "correct": true },
+            { "text": "Eine Modellguss-Klammerprothese.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die wichtigste Funktion der Postdam-Region (Hintere Gaumenbegrenzung) in einer Oberkiefer-Totalprothese?",
+        "answers": [
+            { "text": "Die Stabilisierung des Unterkiefers.", "correct": false },
+            { "text": "Die ästhetische Korrektur der Zahnfarbe.", "correct": false },
+            { "text": "Die Abdichtung des hinteren Prothesenrandes und Erzeugung des Ventilrandschlusses (Retention).", "correct": true },
+            { "text": "Die Übertragung der Kaubelastung auf den Kieferknochen.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Klinische Indikator spricht eindeutig für eine zu geringe vertikale Dimension (VDO) nach Eingliederung einer Totalprothese?",
+        "answers": [
+            { "text": "Das 'Klicken' der Zähne beim Sprechen.", "correct": false },
+            { "text": "Schluckbeschwerden.", "correct": false },
+            { "text": "Ein zu großer interokklusaler Ruhe- oder Sprechabstand (Freiraum) und ein 'eingefallenes' Gesichtsprofil.", "correct": true },
+            { "text": "Ein zu geringer Lippenschluss.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die wichtigste biomechanische Funktion einer Verblockung (Splinting) von Implantaten?",
+        "answers": [
+            { "text": "Die Erhöhung der Ästhetik.", "correct": false },
+            { "text": "Die Vereinfachung der Reinigung.", "correct": false },
+            { "text": "Die Verteilung der Kaukräfte auf mehrere Implantate und Reduzierung der Einzelbelastung bei lateralen und schrägen Kräften.", "correct": true },
+            { "text": "Die Verhinderung von Sekundärkaries.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Versorgung ist bei einem Patienten mit stark reduziertem Restgebiss und hohen ästhetischen und funktionellen Ansprüchen am ehesten geeignet?",
+        "answers": [
+            { "text": "Modellguss-Klammerprothese.", "correct": false },
+            { "text": "Totalprothese.", "correct": false },
+            { "text": "Festsitzende Implantatbrücke (z.B. All-on-4/6) oder Teleskopprothese mit ästhetischer Verblendung.", "correct": true },
+            { "text": "Adhäsivbrücke.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die Hauptfunktion der Funktionsabformung (Funktionsabdruck) bei der Totalprothetik?",
+        "answers": [
+            { "text": "Die Registrierung der maximalen Interkuspidation.", "correct": false },
+            { "text": "Die Bestimmung der optimalen Zahnfarbe.", "correct": false },
+            { "text": "Die Erfassung der beweglichen Weichteile im Grenzbereich des Prothesenlagers zur Gewährleistung des Ventilrandschlusses und der Stabilität.", "correct": true },
+            { "text": "Die Messung der Kaumuskulaturaktivität.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Klinische Indikator spricht eindeutig für eine Hyperbalance (Frühkontakt in der Balanceseite) nach Eingliederung einer Totalprothese?",
+        "answers": [
+            { "text": "Ein zu großer interokklusaler Raum.", "correct": false },
+            { "text": "Das Klicken der Zähne beim Sprechen.", "correct": false },
+            { "text": "Das Schaukeln und Instabilität der Prothese beim Kauen oder lateralen Bewegungen.", "correct": true },
+            { "text": "Ein zu geringer Lippenschluss.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Unterschied zwischen Hybrid-Keramik und Zirkondioxid in Bezug auf die Bruchzähigkeit?",
+        "answers": [
+            { "text": "Zirkondioxid ist ästhetischer.", "correct": false },
+            { "text": "Hybrid-Keramik ist langlebiger.", "correct": false },
+            { "text": "Zirkondioxid besitzt eine deutlich höhere Bruchzähigkeit (Toughness) und Biegefestigkeit als Hybrid-Keramik (z.B. Vita Enamic), die hauptsächlich im Inlay/Onlay-Bereich verwendet wird.", "correct": true },
+            { "text": "Hybrid-Keramik ist immer verschraubt.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Maßnahme ist bei einem Zahn mit großer Fraktur im Wurzelbereich und unmöglicher Kronenverlängerung zwingend indiziert?",
+        "answers": [
+            { "text": "Ein Veneer.", "correct": false },
+            { "text": "Eine Teleskopkrone.", "correct": false },
+            { "text": "Extraktion und anschließende Versorgung mit Implantat oder Brücke.", "correct": true },
+            { "text": "Eine Okklusionsschiene.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wichtigste mechanische Vorteil von Polyether (PE) als Abformmaterial gegenüber Alginat?",
+        "answers": [
+            { "text": "Die geringeren Kosten.", "correct": false },
+            { "text": "Die kürzere Abbindezeit.", "correct": false },
+            { "text": "Die deutlich höhere Detailwiedergabe und Dimensionsstabilität zur Herstellung von Präzisionsabdrücken.", "correct": true },
+            { "text": "Die bessere Ästhetik.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Art von prothetischer Versorgung ist zwingend indiziert bei einem Patienten mit multiplem und ausgedehntem Zahnverlust im Ober- und Unterkiefer?",
+        "answers": [
+            { "text": "Einzelne Füllungen.", "correct": false },
+            { "text": "Adhäsive Brücken.", "correct": false },
+            { "text": "Umfassende prothetische Rehabilitation mit Totalprothesen, Teleskopprothesen oder implantatgestütztem Zahnersatz.", "correct": true },
+            { "text": "Okklusionsschiene.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Nachteil von Kondensationsvernetzenden Silikonen (C-Silikon) in der Präzisionsabformung?",
+        "answers": [
+            { "text": "Die hohe Hydrophilie.", "correct": false },
+            { "text": "Die lange Verarbeitungszeit.", "correct": false },
+            { "text": "Die Verdampfung des Nebenprodukts Ethanol führt zu einer kontinuierlichen Schrumpfung und mangelnder Dimensionsstabilität.", "correct": true },
+            { "text": "Die geringe Härte.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Maßnahme ist bei einer maximalen Freiendsituation (Kennedy Klasse I) im Oberkiefer bei geringem vertikalen Knochenangebot kontraindiziert?",
+        "answers": [
+            { "text": "Ein Cover-Denture auf 4 Implantaten.", "correct": false },
+            { "text": "Eine Teleskopprothese auf 4 Pfeilerzähnen.", "correct": false },
+            { "text": "Eine starre, zementierte Extensionsbrücke.", "correct": true },
+            { "text": "Eine Modellguss-Klammerprothese.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die wichtigste Funktion der Postdam-Region (Hintere Gaumenbegrenzung) in einer Oberkiefer-Totalprothese?",
+        "answers": [
+            { "text": "Die Stabilisierung des Unterkiefers.", "correct": false },
+            { "text": "Die ästhetische Korrektur der Zahnfarbe.", "correct": false },
+            { "text": "Die Abdichtung des hinteren Prothesenrandes und Erzeugung des Ventilrandschlusses (Retention).", "correct": true },
+            { "text": "Die Übertragung der Kaubelastung auf den Kieferknochen.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Klinische Indikator spricht eindeutig für eine zu geringe vertikale Dimension (VDO) nach Eingliederung einer Totalprothese?",
+        "answers": [
+            { "text": "Das 'Klicken' der Zähne beim Sprechen.", "correct": false },
+            { "text": "Schluckbeschwerden.", "correct": false },
+            { "text": "Ein zu großer interokklusaler Ruhe- oder Sprechabstand (Freiraum) und ein 'eingefallenes' Gesichtsprofil.", "correct": true },
+            { "text": "Ein zu geringer Lippenschluss.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die wichtigste biomechanische Funktion einer Verblockung (Splinting) von Implantaten?",
+        "answers": [
+            { "text": "Die Erhöhung der Ästhetik.", "correct": false },
+            { "text": "Die Vereinfachung der Reinigung.", "correct": false },
+            { "text": "Die Verteilung der Kaukräfte auf mehrere Implantate und Reduzierung der Einzelbelastung bei lateralen und schrägen Kräften.", "correct": true },
+            { "text": "Die Verhinderung von Sekundärkaries.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Versorgung ist bei einem Patienten mit stark reduziertem Restgebiss und hohen ästhetischen und funktionellen Ansprüchen am ehesten geeignet?",
+        "answers": [
+            { "text": "Modellguss-Klammerprothese.", "correct": false },
+            { "text": "Totalprothese.", "correct": false },
+            { "text": "Festsitzende Implantatbrücke (z.B. All-on-4/6) oder Teleskopprothese mit ästhetischer Verblendung.", "correct": true },
+            { "text": "Adhäsivbrücke.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist die Hauptfunktion der Funktionsabformung (Funktionsabdruck) bei der Totalprothetik?",
+        "answers": [
+            { "text": "Die Registrierung der maximalen Interkuspidation.", "correct": false },
+            { "text": "Die Bestimmung der optimalen Zahnfarbe.", "correct": false },
+            { "text": "Die Erfassung der beweglichen Weichteile im Grenzbereich des Prothesenlagers zur Gewährleistung des Ventilrandschlusses und der Stabilität.", "correct": true },
+            { "text": "Die Messung der Kaumuskulaturaktivität.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Klinische Indikator spricht eindeutig für eine Hyperbalance (Frühkontakt in der Balanceseite) nach Eingliederung einer Totalprothese?",
+        "answers": [
+            { "text": "Ein zu großer interokklusaler Raum.", "correct": false },
+            { "text": "Das Klicken der Zähne beim Sprechen.", "correct": false },
+            { "text": "Das Schaukeln und Instabilität der Prothese beim Kauen oder lateralen Bewegungen.", "correct": true },
+            { "text": "Ein zu geringer Lippenschluss.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Unterschied zwischen Hybrid-Keramik und Zirkondioxid in Bezug auf die Bruchzähigkeit?",
+        "answers": [
+            { "text": "Zirkondioxid ist ästhetischer.", "correct": false },
+            { "text": "Hybrid-Keramik ist langlebiger.", "correct": false },
+            { "text": "Zirkondioxid besitzt eine deutlich höhere Bruchzähigkeit (Toughness) und Biegefestigkeit als Hybrid-Keramik (z.B. Vita Enamic), die hauptsächlich im Inlay/Onlay-Bereich verwendet wird.", "correct": true },
+            { "text": "Hybrid-Keramik ist immer verschraubt.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche prothetische Maßnahme ist bei einem Zahn mit großer Fraktur im Wurzelbereich und unmöglicher Kronenverlängerung zwingend indiziert?",
+        "answers": [
+            { "text": "Ein Veneer.", "correct": false },
+            { "text": "Eine Teleskopkrone.", "correct": false },
+            { "text": "Extraktion und anschließende Versorgung mit Implantat oder Brücke.", "correct": true },
+            { "text": "Eine Okklusionsschiene.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wichtigste mechanische Vorteil von Polyether (PE) als Abformmaterial gegenüber Alginat?",
+        "answers": [
+            { "text": "Die geringeren Kosten.", "correct": false },
+            { "text": "Die kürzere Abbindezeit.", "correct": false },
+            { "text": "Die deutlich höhere Detailwiedergabe und Dimensionsstabilität zur Herstellung von Präzisionsabdrücken.", "correct": true },
+            { "text": "Die bessere Ästhetik.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Art von prothetischer Versorgung ist zwingend indiziert bei einem Patienten mit multiplem und ausgedehntem Zahnverlust im Ober- und Unterkiefer?",
+        "answers": [
+            { "text": "Einzelne Füllungen.", "correct": false },
+            { "text": "Adhäsive Brücken.", "correct": false },
+            { "text": "Umfassende prothetische Rehabilitation mit Totalprothesen, Teleskopprothesen oder implantatgestütztem Zahnersatz.", "correct": true },
+            { "text": "Okklusionsschiene.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der wesentliche Nachteil von Kondensationsvernetzenden Silikonen (C-Silikon) in der Präzisionsabformung?",
+        "answers": [
+            { "text": "Die hohe Hydrophilie.", "correct": false },
+            { "text": "Die lange Verarbeitungszeit.", "correct": false },
+            { "text": "Die Verdampfung des Nebenprodukts Ethanol führt zu einer kontinuierlichen Schrumpfung und mangelnder Dimensionsstabilität.", "correct": true },
+            { "text": "Die geringe Härte.", "correct": false }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Quiz PWA</title>
+
+<!-- iOS PWA Settings -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+<!-- Android / Chrome Theme Color -->
+<meta name="theme-color" content="#f9fafc">
+
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Installationshinweis, nur sichtbar, wenn nicht PWA -->
+<div id="install-prompt" style="display:none; text-align:center; margin-top: 50px;">
+  <img src="install-pwa.png" alt="Installiere die App als PWA" style="max-width: 80%; height:auto;">
+</div>
+
+<!-- Quiz-Inhalt -->
+<div id="app-content">
+
+  <!-- Splashscreen -->
+  <div id="splash" >
+    <img src="splash-image.png" alt="Splash" >
+  </div>
+
+  <!-- Header mit Fortschrittsbalken -->
+  <header>
+    <div id="progress-container" class="progress-container">
+      <div class="progress-marker"></div>
+    </div>
+  </header>
+
+  <main>
+    <div class="question" id="question"></div>
+    <div class="answers" id="answers"></div>
+    <button id="checkBtn">Antwort prüfen</button>
+  </main>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
