@@ -1,0 +1,274 @@
+```json
+[
+    {
+        "question": "Welche Polymere werden in der Zahnmedizin am häufigsten als Basismaterialien für Prothesen verwendet?",
+        "answers": [
+            { "text": "Polyetheretherketon (PEEK)", "correct": false },
+            { "text": "Polymethylmethacrylat (PMMA)", "correct": true },
+            { "text": "Polyamid (Nylon)", "correct": true },
+            { "text": "Polytetrafluorethylen (PTFE)", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Aussage zu PMMA trifft zu?",
+        "answers": [
+            { "text": "Es polymerisiert über eine Kondensationsreaktion mit Wasserabspaltung.", "correct": false },
+            { "text": "Es zeigt eine hohe Schrumpfung während der Polymerisation.", "correct": true },
+            { "text": "Es ist ein duroplastischer Kunststoff.", "correct": false },
+            { "text": "Es wird häufig für Prothesenbasen verwendet.", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Eigenschaften sind typisch für thermoplastische Polymere?",
+        "answers": [
+            { "text": "Sie lassen sich nach Aushärtung nicht mehr verformen.", "correct": false },
+            { "text": "Sie erweichen bei Wärme und können mehrfach umgeformt werden.", "correct": true },
+            { "text": "Sie bestehen aus linearen oder verzweigten Polymerketten.", "correct": true },
+            { "text": "Sie werden durch Vernetzungsreaktionen hergestellt.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Faktoren beeinflussen die Polymerisationsschrumpfung bei PMMA?",
+        "answers": [
+            { "text": "Monomer-zu-Polymer-Verhältnis", "correct": true },
+            { "text": "Füllstoffgehalt", "correct": true },
+            { "text": "Vernetzungsgrad", "correct": true },
+            { "text": "Temperatur des Patientenmundes", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Kunststoffe werden für Provisorien häufig verwendet?",
+        "answers": [
+            { "text": "Epoxidharze", "correct": false },
+            { "text": "PMMA", "correct": true },
+            { "text": "Bis-Acryl-Komposite", "correct": true },
+            { "text": "Polyurethan", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Nachteile haben kaltpolymerisierende Kunststoffe gegenüber heißpolymerisierenden?",
+        "answers": [
+            { "text": "Höherer Restmonomergehalt", "correct": true },
+            { "text": "Geringere Bruchfestigkeit", "correct": true },
+            { "text": "Geringere Dimensionsstabilität", "correct": true },
+            { "text": "Längere Aushärtezeit", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Polymere können als 3D-Druck-Materialien in der Zahnmedizin eingesetzt werden?",
+        "answers": [
+            { "text": "PMMA", "correct": true },
+            { "text": "Resin-basierte Photopolymere", "correct": true },
+            { "text": "Silane", "correct": false },
+            { "text": "Polycarbonate", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Polymerisationsarten sind in der Zahnmedizin relevant?",
+        "answers": [
+            { "text": "Radikalische Polymerisation", "correct": true },
+            { "text": "Additionspolymerisation", "correct": true },
+            { "text": "Kondensationspolymerisation", "correct": true },
+            { "text": "Elektrolytische Polymerisation", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der Hauptnachteil eines hohen Restmonomergehalts in PMMA-Prothesen?",
+        "answers": [
+            { "text": "Erhöhte Wasseraufnahme", "correct": false },
+            { "text": "Allergische Reaktionen und Schleimhautirritationen", "correct": true },
+            { "text": "Bessere Haftung am Modell", "correct": false },
+            { "text": "Verringerte Festigkeit", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche mechanischen Eigenschaften sind für Prothesenbasen entscheidend?",
+        "answers": [
+            { "text": "Hohe Elastizität", "correct": false },
+            { "text": "Bruchzähigkeit", "correct": true },
+            { "text": "Oberflächenhärte", "correct": true },
+            { "text": "Biegsamkeit bei Mundtemperatur", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Polymerisationsinitiatoren werden in selbsthärtenden Kunststoffen verwendet?",
+        "answers": [
+            { "text": "Benzoylperoxid", "correct": true },
+            { "text": "Campherchinon", "correct": false },
+            { "text": "Amine als Beschleuniger", "correct": true },
+            { "text": "Silane", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Füllstoffe können in polymeren Werkstoffen die Festigkeit erhöhen?",
+        "answers": [
+            { "text": "Glasfasern", "correct": true },
+            { "text": "Quarzpartikel", "correct": true },
+            { "text": "Farbstoffe", "correct": false },
+            { "text": "Nanopartikel", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Kunststoffe gelten als biokompatibel und werden für dauerhafte Restaurationen genutzt?",
+        "answers": [
+            { "text": "PEEK", "correct": true },
+            { "text": "Polyamid", "correct": false },
+            { "text": "PMMA", "correct": bedingung:true },
+            { "text": "Epoxidharz", "correct": false }
+        ]
+    },
+    {
+        "question": "Was beschreibt die Glasübergangstemperatur (Tg) bei Polymeren?",
+        "answers": [
+            { "text": "Den Temperaturbereich, in dem das Polymer vom spröden in den elastischen Zustand übergeht.", "correct": true },
+            { "text": "Die Temperatur, bei der das Polymer zersetzt wird.", "correct": false },
+            { "text": "Den Punkt maximaler Polymerisation.", "correct": false },
+            { "text": "Den Beginn der chemischen Vernetzung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Rolle spielt die Wasseraufnahme bei polymere Werkstoffen in der Zahnmedizin?",
+        "answers": [
+            { "text": "Sie kann zur Dimensionsänderung führen.", "correct": true },
+            { "text": "Sie verbessert die Oberflächenhärte.", "correct": false },
+            { "text": "Sie kann das Material schwächen.", "correct": true },
+            { "text": "Sie verhindert bakterielle Besiedelung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was versteht man unter Copolymeren?",
+        "answers": [
+            { "text": "Polymere, die aus mehreren Monomertypen aufgebaut sind.", "correct": true },
+            { "text": "Polymere mit ausschließlich linearen Ketten.", "correct": false },
+            { "text": "Polymere mit einer besonders hohen Vernetzungsdichte.", "correct": false },
+            { "text": "Polymere, die durch Kombination verschiedener Monomere spezifische Eigenschaften erhalten.", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Vorteile bietet PEEK gegenüber PMMA in der Prothetik?",
+        "answers": [
+            { "text": "Höhere Bruchfestigkeit", "correct": true },
+            { "text": "Bessere Biokompatibilität", "correct": true },
+            { "text": "Geringere Dichte", "correct": false },
+            { "text": "Hohe Temperaturstabilität", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Polymere sind für kieferorthopädische Schienen besonders geeignet?",
+        "answers": [
+            { "text": "Polycarbonat", "correct": true },
+            { "text": "Polyamid", "correct": true },
+            { "text": "PEEK", "correct": false },
+            { "text": "PMMA", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Faktoren bestimmen die Abrasionsbeständigkeit eines polymeren Füllungsmaterials?",
+        "answers": [
+            { "text": "Füllstoffart und -menge", "correct": true },
+            { "text": "Vernetzungsgrad", "correct": true },
+            { "text": "Wassergehalt", "correct": false },
+            { "text": "Monomergröße", "correct": true }
+        ]
+    },
+    {
+        "question": "Warum werden Silane bei Kompositen eingesetzt?",
+        "answers": [
+            { "text": "Zur Haftvermittlung zwischen Füllstoff und Polymermatrix", "correct": true },
+            { "text": "Als Polymerisationsinitiator", "correct": false },
+            { "text": "Zur Farbstabilisierung", "correct": false },
+            { "text": "Zur Verbesserung der mechanischen Eigenschaften", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Eigenschaft ist für den klinischen Einsatz von polymeren Befestigungsmaterialien besonders kritisch?",
+        "answers": [
+            { "text": "Geringe Schrumpfung", "correct": true },
+            { "text": "Hohe Wasseraufnahme", "correct": false },
+            { "text": "Lange Aushärtungszeit", "correct": false },
+            { "text": "Hohe Haftfestigkeit", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Materialien gehören zu den vernetzten Kunststoffen?",
+        "answers": [
+            { "text": "Epoxidharze", "correct": true },
+            { "text": "PMMA", "correct": false },
+            { "text": "Komposite", "correct": true },
+            { "text": "Polyamid", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Additive verbessern die Alterungsbeständigkeit von Polymeren?",
+        "answers": [
+            { "text": "Antioxidantien", "correct": true },
+            { "text": "UV-Stabilisatoren", "correct": true },
+            { "text": "Weichmacher", "correct": false },
+            { "text": "Härter", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Aussage zu Photopolymerisaten trifft zu?",
+        "answers": [
+            { "text": "Sie härten unter Lichteinfluss aus.", "correct": true },
+            { "text": "Sie benötigen ausschließlich thermische Aktivierung.", "correct": false },
+            { "text": "Sie enthalten Photoinitiatoren wie Campherchinon.", "correct": true },
+            { "text": "Sie zeigen keine Polymerisationsschrumpfung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Funktion hat der Vernetzungsgrad bei einem Polymer?",
+        "answers": [
+            { "text": "Er beeinflusst die Elastizität und Festigkeit.", "correct": true },
+            { "text": "Ein höherer Vernetzungsgrad führt zu höherer Löslichkeit.", "correct": false },
+            { "text": "Er bestimmt das thermische Verhalten.", "correct": true },
+            { "text": "Er beeinflusst die Wasseraufnahme.", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Kunststoffe werden für weiche Unterfütterungsmaterialien verwendet?",
+        "answers": [
+            { "text": "Silikone", "correct": true },
+            { "text": "Polyurethan", "correct": true },
+            { "text": "PMMA", "correct": false },
+            { "text": "Epoxidharz", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Faktoren fördern die Farbinstabilität bei Kunststoffen im Mund?",
+        "answers": [
+            { "text": "UV-Licht", "correct": true },
+            { "text": "Farbstoffhaltige Nahrungsmittel", "correct": true },
+            { "text": "Hoher Vernetzungsgrad", "correct": false },
+            { "text": "Restmonomere", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Polymere können als CAD/CAM-Fräsblöcke verarbeitet werden?",
+        "answers": [
+            { "text": "PEEK", "correct": true },
+            { "text": "PMMA", "correct": true },
+            { "text": "Polyamid", "correct": false },
+            { "text": "Polycarbonat", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Rolle spielen Komposite in der Zahnmedizin?",
+        "answers": [
+            { "text": "Sie dienen als Füllungsmaterialien.", "correct": true },
+            { "text": "Sie sind reine Metallwerkstoffe.", "correct": false },
+            { "text": "Sie bestehen aus einer Polymermatrix mit anorganischen Füllstoffen.", "correct": true },
+            { "text": "Sie zeigen keine Polymerisationsschrumpfung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was kann durch eine unzureichende Polymerisation bei lichthärtenden Materialien entstehen?",
+        "answers": [
+            { "text": "Erhöhte Restmonomerfreisetzung", "correct": true },
+            { "text": "Verringerte mechanische Festigkeit", "correct": true },
+            { "text": "Verbesserte Biokompatibilität", "correct": false },
+            { "text": "Erhöhte Verfärbungsneigung", "correct": true }
+        ]
+    }
+]
+```
