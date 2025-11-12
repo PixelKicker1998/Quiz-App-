@@ -88,7 +88,7 @@ function checkAnswers() {
       el.classList.add("correct");
       correctCount++;
     } else if (correctSet.has(i)) {
-      el.classList.add("correct");
+      el.classList.add("shouldcorrect");
     } else if (selectedSet.has(i)) {
       el.classList.add("wrong");
     }
@@ -171,6 +171,7 @@ function showResults() {
     updateProgressBar();
   });
 }
+
 
 
 
