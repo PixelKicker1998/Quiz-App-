@@ -30,7 +30,7 @@ window.addEventListener('load', () => {
 });
 
 async function loadQuestions() {
-  const res = await fetch('questions2.json');
+  const res = await fetch('questions_polymere.json');
   const data = await res.json();
   questions = data.sort(() => Math.random() - 0.5);
   currentQuestion = 0;
@@ -171,6 +171,7 @@ function showResults() {
     updateProgressBar();
   });
 }
+
 
 
 
