@@ -112,7 +112,7 @@
         "answers": [
             { "text": "PEEK", "correct": true },
             { "text": "Polyamid", "correct": false },
-            { "text": "PMMA", "correct": bedingung:true },
+            { "text": "PMMA", "correct": true },
             { "text": "Epoxidharz", "correct": false }
         ]
     },
@@ -270,5 +270,6 @@
         ]
     }
 ]
+
 
 
