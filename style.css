@@ -107,6 +107,11 @@ main {
   border-color: #4caf50;
   animation: highlight 0.4s ease;
 }
+.answer.shouldcorrect {
+  background-color: #c9f7c2;
+  border-color: #e53935;
+  animation: highlight 0.4s ease;
+}
 
 .answer.wrong {
   background-color: #f9c0c0;
@@ -185,3 +190,4 @@ button:disabled {
   .answer { font-size: 0.95rem; padding: 0.9rem; }
   button { font-size: 0.95rem; }
 }
+
