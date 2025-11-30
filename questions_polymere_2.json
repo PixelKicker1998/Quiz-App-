@@ -215,12 +215,12 @@
             { "text": "Erhöhte Verfärbungsneigung", "correct": true }
         ]
     },
-	    {
+    {
         "question": "Woraus bestehen Polymere?",
         "answers": [
             { "text": "Aus einzelnen Atomen", "correct": false },
             { "text": "Nur aus Metallionen", "correct": false },
-			{ "text": "Aus sich wiederholenden Monomereinheiten", "correct": true },
+            { "text": "Aus sich wiederholenden Monomereinheiten", "correct": true },
             { "text": "Aus Wasserstoffbrücken", "correct": false }
         ]
     },
@@ -238,8 +238,8 @@
         "answers": [
             { "text": "Radikale", "correct": false },
             { "text": "Sauerstoff", "correct": false },
-            { "text": "Stickstoff", "correct": false }
-			{ "text": "Niedermolekulare Verbindungen wie Wasser oder Alkohol", "correct": true },
+            { "text": "Stickstoff", "correct": false },
+            { "text": "Niedermolekulare Verbindungen wie Wasser oder Alkohol", "correct": true }
         ]
     },
     {
@@ -265,8 +265,8 @@
         "answers": [
             { "text": "Zinkoxid", "correct": false },
             { "text": "Phthalate", "correct": false },
-            { "text": "Polyvinylsiloxan", "correct": false }
-			{ "text": "Campherchinon", "correct": true },
+            { "text": "Polyvinylsiloxan", "correct": false },
+            { "text": "Campherchinon", "correct": true }
         ]
     },
     {
@@ -274,8 +274,8 @@
         "answers": [
             { "text": "Hohe Elastizität", "correct": false },
             { "text": "Sehr hohe Abrasionsfestigkeit", "correct": false },
-            { "text": "Metallische Leitfähigkeit", "correct": false }
-            { "text": "Sprödigkeit und Bruchgefahr", "correct": true },
+            { "text": "Metallische Leitfähigkeit", "correct": false },
+            { "text": "Sprödigkeit und Bruchgefahr", "correct": true }
         ]
     },
     {
@@ -301,8 +301,8 @@
         "answers": [
             { "text": "Polykondensation", "correct": false },
             { "text": "Radikalische Polymerisation", "correct": false },
-            { "text": "Hydrolyse", "correct": false }
-			{ "text": "Polyaddition", "correct": true },
+            { "text": "Hydrolyse", "correct": false },
+            { "text": "Polyaddition", "correct": true }
         ]
     },
     {
@@ -310,7 +310,7 @@
         "answers": [
             { "text": "Rot", "correct": false },
             { "text": "Blau", "correct": false },
-			{ "text": "Weiß", "correct": true },
+            { "text": "Weiß", "correct": true },
             { "text": "Grün", "correct": false }
         ]
     },
@@ -318,7 +318,7 @@
         "question": "Wann wurde die Lichthärtung in der Zahnmedizin eingeführt?",
         "answers": [
             { "text": "1963", "correct": false },
-	        { "text": "1977", "correct": true },
+            { "text": "1977", "correct": true },
             { "text": "1985", "correct": false },
             { "text": "1998", "correct": false }
         ]
@@ -327,7 +327,7 @@
         "question": "Welche Eigenschaft ist für Abformmaterialien besonders wichtig?",
         "answers": [
             { "text": "Elektrische Leitfähigkeit", "correct": false },
-	        { "text": "Elastizität und Formstabilität", "correct": true },
+            { "text": "Elastizität und Formstabilität", "correct": true },
             { "text": "Magnetische Eigenschaften", "correct": false },
             { "text": "Hohe Wärmeleitfähigkeit", "correct": false }
         ]
@@ -346,8 +346,8 @@
         "answers": [
             { "text": "Polyethylen", "correct": false },
             { "text": "Polycarbonat", "correct": false },
-            { "text": "PMMA", "correct": false }
-            { "text": "Polydimethylsiloxan", "correct": true },
+            { "text": "PMMA", "correct": false },
+            { "text": "Polydimethylsiloxan", "correct": true }
         ]
     },
     {
@@ -391,8 +391,8 @@
         "answers": [
             { "text": "Sehr spröde und opak", "correct": false },
             { "text": "Metallisch glänzend", "correct": false },
-            { "text": "Nicht verformbar", "correct": false }
-            { "text": "Transparent und gut verformbar", "correct": true },
+            { "text": "Nicht verformbar", "correct": false },
+            { "text": "Transparent und gut verformbar", "correct": true }
         ]
     },
     {
@@ -409,8 +409,8 @@
         "answers": [
             { "text": "Höhere Schrumpfung", "correct": false },
             { "text": "Keine Vernetzung", "correct": false },
-            { "text": "Thermoplastisch", "correct": false }
-            { "text": "Geringere Schrumpfung", "correct": true },
+            { "text": "Thermoplastisch", "correct": false },
+            { "text": "Geringere Schrumpfung", "correct": true }
         ]
     },
     {
@@ -436,8 +436,8 @@
         "answers": [
             { "text": "Polykondensation", "correct": false },
             { "text": "Polyaddition", "correct": false },
-            { "text": "Hydrolyse", "correct": false }
-		    { "text": "Radikalische Polymerisation von MMA", "correct": true },
+            { "text": "Hydrolyse", "correct": false },
+            { "text": "Radikalische Polymerisation von MMA", "correct": true }
         ]
     },
     {
@@ -448,8 +448,5 @@
             { "text": "Erhöhen die Oberflächenglätte und Ästhetik", "correct": true },
             { "text": "Erhöhen die Wasseraufnahme", "correct": false }
         ]
-    }	
+    }
 ]
-
-
-
