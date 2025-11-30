@@ -1,0 +1,455 @@
+[
+    {
+        "question": "Welche Polymere werden in der Zahnmedizin am häufigsten als Basismaterialien für Prothesen verwendet?",
+        "answers": [
+            { "text": "Polyetheretherketon (PEEK)", "correct": false },
+            { "text": "Polymethylmethacrylat (PMMA)", "correct": false },
+            { "text": "Polyamid (Nylon)", "correct": true },
+            { "text": "Polytetrafluorethylen (PTFE)", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Aussage zu PMMA trifft zu?",
+        "answers": [
+            { "text": "Es polymerisiert über eine Kondensationsreaktion mit Wasserabspaltung.", "correct": false },
+            { "text": "Es zeigt eine hohe Schrumpfung während der Polymerisation.", "correct": true },
+            { "text": "Es ist ein duroplastischer Kunststoff.", "correct": false },
+            { "text": "Es wird häufig für Prothesenbasen verwendet.", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Eigenschaften sind typisch für thermoplastische Polymere?",
+        "answers": [
+            { "text": "Sie lassen sich nach Aushärtung nicht mehr verformen.", "correct": false },
+            { "text": "Sie erweichen bei Wärme und können mehrfach umgeformt werden.", "correct": true },
+            { "text": "Sie bestehen aus linearen oder verzweigten Polymerketten.", "correct": true },
+            { "text": "Sie werden durch Vernetzungsreaktionen hergestellt.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Faktoren beeinflussen die Polymerisationsschrumpfung bei PMMA?",
+        "answers": [
+            { "text": "Monomer-zu-Polymer-Verhältnis", "correct": true },
+            { "text": "Füllstoffgehalt", "correct": true },
+            { "text": "Vernetzungsgrad", "correct": true },
+            { "text": "Temperatur des Patientenmundes", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Kunststoffe werden für Provisorien häufig verwendet?",
+        "answers": [
+            { "text": "Epoxidharze", "correct": false },
+            { "text": "PMMA", "correct": true },
+            { "text": "Bis-Acryl-Komposite", "correct": true },
+            { "text": "Polyurethan", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Nachteile haben kaltpolymerisierende Kunststoffe gegenüber heißpolymerisierenden?",
+        "answers": [
+            { "text": "Höherer Restmonomergehalt", "correct": true },
+            { "text": "Geringere Bruchfestigkeit", "correct": true },
+            { "text": "Geringere Dimensionsstabilität", "correct": true },
+            { "text": "Längere Aushärtezeit", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Polymere können als 3D-Druck-Materialien in der Zahnmedizin eingesetzt werden?",
+        "answers": [
+            { "text": "PMMA", "correct": true },
+            { "text": "Resin-basierte Photopolymere", "correct": true },
+            { "text": "Silane", "correct": false },
+            { "text": "Polycarbonate", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Polymerisationsarten sind in der Zahnmedizin relevant?",
+        "answers": [
+            { "text": "Radikalische Polymerisation", "correct": true },
+            { "text": "Additionspolymerisation", "correct": true },
+            { "text": "Kondensationspolymerisation", "correct": true },
+            { "text": "Elektrolytische Polymerisation", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der Hauptnachteil eines hohen Restmonomergehalts in PMMA-Prothesen?",
+        "answers": [
+            { "text": "Erhöhte Wasseraufnahme", "correct": false },
+            { "text": "Allergische Reaktionen und Schleimhautirritationen", "correct": true },
+            { "text": "Bessere Haftung am Modell", "correct": false },
+            { "text": "Verringerte Festigkeit", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche mechanischen Eigenschaften sind für Prothesenbasen entscheidend?",
+        "answers": [
+            { "text": "Hohe Elastizität", "correct": false },
+            { "text": "Bruchzähigkeit", "correct": true },
+            { "text": "Oberflächenhärte", "correct": true },
+            { "text": "Biegsamkeit bei Mundtemperatur", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Füllstoffe können in polymeren Werkstoffen die Festigkeit erhöhen?",
+        "answers": [
+            { "text": "Glasfasern", "correct": true },
+            { "text": "Quarzpartikel", "correct": true },
+            { "text": "Farbstoffe", "correct": false },
+            { "text": "Nanopartikel", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Kunststoffe gelten als biokompatibel und werden für dauerhafte Restaurationen genutzt?",
+        "answers": [
+            { "text": "PEEK", "correct": true },
+            { "text": "Polyamid", "correct": false },
+            { "text": "PMMA", "correct": true },
+            { "text": "Epoxidharz", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Rolle spielt die Wasseraufnahme bei polymere Werkstoffen in der Zahnmedizin?",
+        "answers": [
+            { "text": "Sie kann zur Dimensionsänderung führen.", "correct": true },
+            { "text": "Sie verbessert die Oberflächenhärte.", "correct": false },
+            { "text": "Sie kann das Material schwächen.", "correct": true },
+            { "text": "Sie verhindert bakterielle Besiedelung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was versteht man unter Copolymeren?",
+        "answers": [
+            { "text": "Polymere, die aus mehreren Monomertypen aufgebaut sind.", "correct": true },
+            { "text": "Polymere mit ausschließlich linearen Ketten.", "correct": false },
+            { "text": "Polymere mit einer besonders hohen Vernetzungsdichte.", "correct": false },
+            { "text": "Polymere, die durch Kombination verschiedener Monomere spezifische Eigenschaften erhalten.", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Faktoren bestimmen die Abrasionsbeständigkeit eines polymeren Füllungsmaterials?",
+        "answers": [
+            { "text": "Füllstoffart und -menge", "correct": true },
+            { "text": "Vernetzungsgrad", "correct": true },
+            { "text": "Wassergehalt", "correct": false },
+            { "text": "Monomergröße", "correct": true }
+        ]
+    },
+    {
+        "question": "Warum werden Silane bei Kompositen eingesetzt?",
+        "answers": [
+            { "text": "Zur Haftvermittlung zwischen Füllstoff und Polymermatrix", "correct": true },
+            { "text": "Als Polymerisationsinitiator", "correct": false },
+            { "text": "Zur Farbstabilisierung", "correct": false },
+            { "text": "Zur Verbesserung der mechanischen Eigenschaften", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Additive verbessern die Alterungsbeständigkeit von Polymeren?",
+        "answers": [
+            { "text": "Antioxidantien", "correct": true },
+            { "text": "UV-Stabilisatoren", "correct": true },
+            { "text": "Weichmacher", "correct": false },
+            { "text": "Härter", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Aussage zu Photopolymerisaten trifft zu?",
+        "answers": [
+            { "text": "Sie härten unter Lichteinfluss aus.", "correct": true },
+            { "text": "Sie benötigen ausschließlich thermische Aktivierung.", "correct": false },
+            { "text": "Sie enthalten Photoinitiatoren wie Campherchinon.", "correct": true },
+            { "text": "Sie zeigen keine Polymerisationsschrumpfung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Funktion hat der Vernetzungsgrad bei einem Polymer?",
+        "answers": [
+            { "text": "Er beeinflusst die Elastizität und Festigkeit.", "correct": true },
+            { "text": "Ein höherer Vernetzungsgrad führt zu höherer Löslichkeit.", "correct": false },
+            { "text": "Er bestimmt das thermische Verhalten.", "correct": true },
+            { "text": "Er beeinflusst die Wasseraufnahme.", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Kunststoffe werden für weiche Unterfütterungsmaterialien verwendet?",
+        "answers": [
+            { "text": "Silikone", "correct": true },
+            { "text": "PETG", "correct": false },
+            { "text": "PMMA", "correct": false },
+            { "text": "Epoxidharz", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Faktoren fördern die Farbinstabilität bei Kunststoffen im Mund?",
+        "answers": [
+            { "text": "UV-Licht", "correct": true },
+            { "text": "Farbstoffhaltige Nahrungsmittel", "correct": true },
+            { "text": "Hoher Vernetzungsgrad", "correct": false },
+            { "text": "Restmonomere", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Polymere können als CAD/CAM-Fräsblöcke verarbeitet werden?",
+        "answers": [
+            { "text": "PEEK", "correct": true },
+            { "text": "PMMA", "correct": true },
+            { "text": "Polyamid", "correct": false },
+            { "text": "Polycarbonat", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Rolle spielen Komposite in der Zahnmedizin?",
+        "answers": [
+            { "text": "Sie dienen als Füllungsmaterialien.", "correct": true },
+            { "text": "Sie sind reine Metallwerkstoffe.", "correct": false },
+            { "text": "Sie bestehen aus einer Polymermatrix mit anorganischen Füllstoffen.", "correct": true },
+            { "text": "Sie zeigen keine Polymerisationsschrumpfung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was kann durch eine unzureichende Polymerisation bei lichthärtenden Materialien entstehen?",
+        "answers": [
+            { "text": "Erhöhte Restmonomerfreisetzung", "correct": true },
+            { "text": "Verringerte mechanische Festigkeit", "correct": true },
+            { "text": "Verbesserte Biokompatibilität", "correct": false },
+            { "text": "Erhöhte Verfärbungsneigung", "correct": true }
+        ]
+    },
+	    {
+        "question": "Woraus bestehen Polymere?",
+        "answers": [
+            { "text": "Aus einzelnen Atomen", "correct": false },
+            { "text": "Nur aus Metallionen", "correct": false },
+			{ "text": "Aus sich wiederholenden Monomereinheiten", "correct": true },
+            { "text": "Aus Wasserstoffbrücken", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Reaktionsstadien gehören zur radikalischen Polymerisation?",
+        "answers": [
+            { "text": "Hydrolyse, Kondensation, Kristallisation", "correct": false },
+            { "text": "Kettenstart, Kettenwachstum, Kettenabbruch", "correct": true },
+            { "text": "Ionisation, Neutralisation, Polymerisation", "correct": false },
+            { "text": "Adsorption, Diffusion, Desorption", "correct": false }
+        ]
+    },
+    {
+        "question": "Was wird bei der Polykondensation zusätzlich abgespalten?",
+        "answers": [
+            { "text": "Radikale", "correct": false },
+            { "text": "Sauerstoff", "correct": false },
+            { "text": "Stickstoff", "correct": false }
+			{ "text": "Niedermolekulare Verbindungen wie Wasser oder Alkohol", "correct": true },
+        ]
+    },
+    {
+        "question": "Welche Eigenschaft haben A-Silikone?",
+        "answers": [
+            { "text": "Kondensationsvernetzend", "correct": false },
+            { "text": "Additionsvernetzend", "correct": true },
+            { "text": "Thermoplastisch", "correct": false },
+            { "text": "Hydrophil durch Tenside", "correct": false }
+        ]
+    },
+    {
+        "question": "Welches Material ist hydrophil und wird als Abformmaterial genutzt?",
+        "answers": [
+            { "text": "Polyether", "correct": true },
+            { "text": "A-Silikon", "correct": false },
+            { "text": "PMMA", "correct": false },
+            { "text": "Polycarbonat", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Initiatoren werden bei lichthärtenden Kunststoffen verwendet?",
+        "answers": [
+            { "text": "Zinkoxid", "correct": false },
+            { "text": "Phthalate", "correct": false },
+            { "text": "Polyvinylsiloxan", "correct": false }
+			{ "text": "Campherchinon", "correct": true },
+        ]
+    },
+    {
+        "question": "Was ist ein typischer Nachteil von PMMA?",
+        "answers": [
+            { "text": "Hohe Elastizität", "correct": false },
+            { "text": "Sehr hohe Abrasionsfestigkeit", "correct": false },
+            { "text": "Metallische Leitfähigkeit", "correct": false }
+            { "text": "Sprödigkeit und Bruchgefahr", "correct": true },
+        ]
+    },
+    {
+        "question": "Welche Füllstoffe werden typischerweise in Kompositen eingesetzt?",
+        "answers": [
+            { "text": "Kupfer und Zink", "correct": false },
+            { "text": "Quarz und Siliziumdioxid", "correct": true },
+            { "text": "Polyethylenfasern", "correct": false },
+            { "text": "Phthalate", "correct": false }
+        ]
+    },
+    {
+        "question": "Was beschreibt der Begriff Thermoplast?",
+        "answers": [
+            { "text": "Ein Polymer, das bei Erwärmung verformbar ist", "correct": true },
+            { "text": "Ein Polymer, das irreversibel aushärtet", "correct": false },
+            { "text": "Ein Polymer, das nur bei Kälte formbar ist", "correct": false },
+            { "text": "Ein Polymer, das sich nicht verformen lässt", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Polymerisationsart erfolgt ohne Abspaltung von Nebenprodukten?",
+        "answers": [
+            { "text": "Polykondensation", "correct": false },
+            { "text": "Radikalische Polymerisation", "correct": false },
+            { "text": "Hydrolyse", "correct": false }
+			{ "text": "Polyaddition", "correct": true },
+        ]
+    },
+    {
+        "question": "Welche Farbe erzeugt Titandioxid als Pigment?",
+        "answers": [
+            { "text": "Rot", "correct": false },
+            { "text": "Blau", "correct": false },
+			{ "text": "Weiß", "correct": true },
+            { "text": "Grün", "correct": false }
+        ]
+    },
+    {
+        "question": "Wann wurde die Lichthärtung in der Zahnmedizin eingeführt?",
+        "answers": [
+            { "text": "1963", "correct": false },
+	        { "text": "1977", "correct": true },
+            { "text": "1985", "correct": false },
+            { "text": "1998", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Eigenschaft ist für Abformmaterialien besonders wichtig?",
+        "answers": [
+            { "text": "Elektrische Leitfähigkeit", "correct": false },
+	        { "text": "Elastizität und Formstabilität", "correct": true },
+            { "text": "Magnetische Eigenschaften", "correct": false },
+            { "text": "Hohe Wärmeleitfähigkeit", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Polymere werden für Aligner verwendet?",
+        "answers": [
+            { "text": "PMMA", "correct": false },
+            { "text": "Thermoplastisches Polyurethan (TPU)", "correct": true },
+            { "text": "Polyether", "correct": false },
+            { "text": "Polyvinylsiloxan", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der Hauptbestandteil von A-Silikonen?",
+        "answers": [
+            { "text": "Polyethylen", "correct": false },
+            { "text": "Polycarbonat", "correct": false },
+            { "text": "PMMA", "correct": false }
+            { "text": "Polydimethylsiloxan", "correct": true },
+        ]
+    },
+    {
+        "question": "Welche Eigenschaft haben Polyether-Abformmaterialien?",
+        "answers": [
+            { "text": "Starke Hydrophobie", "correct": false },
+            { "text": "Genuine Hydrophilie", "correct": true },
+            { "text": "Thermoplastisch", "correct": false },
+            { "text": "Metallische Leitfähigkeit", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Eigenschaft beeinflusst die Polymereigenschaften stark?",
+        "answers": [
+            { "text": "Vernetzungsgrad", "correct": true },
+            { "text": "Farbe des Materials", "correct": false },
+            { "text": "Lagerort", "correct": false },
+            { "text": "Verpackungsgröße", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist ein typischer Vorteil von PMMA?",
+        "answers": [
+            { "text": "Sehr hohe Elastizität", "correct": false },
+            { "text": "Gute Ästhetik und einfache Verarbeitung", "correct": true },
+            { "text": "Metallische Festigkeit", "correct": false },
+            { "text": "Selbstheilende Oberfläche", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Polymerisationsart wird bei Kompositen genutzt?",
+        "answers": [
+            { "text": "Ionische Polymerisation", "correct": false },
+            { "text": "Radikalische Polymerisation", "correct": true },
+            { "text": "Hydrolyse", "correct": false },
+            { "text": "Kondensation", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Eigenschaft haben Thermoplaste wie PETG?",
+        "answers": [
+            { "text": "Sehr spröde und opak", "correct": false },
+            { "text": "Metallisch glänzend", "correct": false },
+            { "text": "Nicht verformbar", "correct": false }
+            { "text": "Transparent und gut verformbar", "correct": true },
+        ]
+    },
+    {
+        "question": "Welche Pigmente erzeugen rote Farbe?",
+        "answers": [
+            { "text": "Titandioxid", "correct": false },
+            { "text": "Anthrachinon", "correct": false },
+            { "text": "Eisenoxide", "correct": true },
+            { "text": "Phthalate", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Eigenschaft haben A-Silikone im Vergleich zu K-Silikonen?",
+        "answers": [
+            { "text": "Höhere Schrumpfung", "correct": false },
+            { "text": "Keine Vernetzung", "correct": false },
+            { "text": "Thermoplastisch", "correct": false }
+            { "text": "Geringere Schrumpfung", "correct": true },
+        ]
+    },
+    {
+        "question": "Welche Kunststoffe werden für Sportschutzschienen verwendet?",
+        "answers": [
+            { "text": "Polycarbonat und Polyamid", "correct": true },
+            { "text": "PMMA", "correct": false },
+            { "text": "Polyether", "correct": false },
+            { "text": "Polyvinylsiloxan", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Eigenschaft ist für Komposite wichtig?",
+        "answers": [
+            { "text": "Sehr hohe elektrische Leitfähigkeit", "correct": false },
+            { "text": "Hohe Abrasionsbeständigkeit", "correct": true },
+            { "text": "Magnetische Eigenschaften", "correct": false },
+            { "text": "Selbstheilung", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Reaktion findet bei der Herstellung von PMMA statt?",
+        "answers": [
+            { "text": "Polykondensation", "correct": false },
+            { "text": "Polyaddition", "correct": false },
+            { "text": "Hydrolyse", "correct": false }
+		    { "text": "Radikalische Polymerisation von MMA", "correct": true },
+        ]
+    },
+    {
+        "question": "Welche Eigenschaft haben Nanofüllstoffe in Kompositen?",
+        "answers": [
+            { "text": "Erhöhen die Sprödigkeit", "correct": false },
+            { "text": "Verringern die Lichtdurchlässigkeit", "correct": false },
+            { "text": "Erhöhen die Oberflächenglätte und Ästhetik", "correct": true },
+            { "text": "Erhöhen die Wasseraufnahme", "correct": false }
+        ]
+    }	
+]
+
+
+
